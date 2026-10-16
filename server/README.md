@@ -7,18 +7,28 @@ bash server/install.sh
 bash server/start.sh
 ```
 
-The installer uses Valve's current HTTPS SteamCMD manifest and checks each
-package's exact SHA-256 hash and size before extracting it. It selects the
-native `linux64` launcher provided by the current official packages, then uses
-anonymous Steam app **258550** with Steam content validation enabled. TLS and
-the SteamCMD updater's own checks stay enabled. An older, preinstalled SteamCMD
-may still require 32-bit libraries; the current bundled launcher avoids that
-requirement on this workspace. See both scripts' `--help` output.
+The default installer uses **SteamRE DepotDownloader 3.4.0** to fetch official
+Linux Steam app **258550** content using anonymous login. It works through the
+workspace's existing HTTP(S) proxy and keeps Steam manifest/chunk/file
+validation enabled. Its self-contained native Linux x64 executable needs no
+separate .NET installation. The official HTTPS release archive has a pinned
+SHA-256 recorded from the verified download; this is a reproducibility pin,
+not a publisher signature. The download tool's .NET storage stays under its
+runtime directory, without changing `HOME` or copying authentication values.
+See the scripts' `--help` output.
 The runtime directory defaults to `.runtime/rust-server`, outside version control.
 Set `RUST_SERVER_DIR` to put it elsewhere, using the same value for both scripts.
-An existing SteamCMD executable/wrapper can be selected with `STEAMCMD_EXECUTABLE`.
-The bootstrap helper preserves existing nonempty destinations; choose a new
-`STEAMCMD_DIR` rather than overwriting an unrelated or older installation.
+Set `DEPOTDOWNLOADER_DIR` to reuse the download tool and archive elsewhere.
+The workspace uses `/workspace/rust-server/depotdownloader` for the tool and
+`/workspace/rust-server/game` for the server files.
+
+## Optional SteamCMD method
+
+On a host where SteamCMD works normally, choose `RUST_INSTALLER=steamcmd`.
+An existing SteamCMD executable/wrapper can be selected with
+`STEAMCMD_EXECUTABLE`. The current-package bootstrap helper preserves existing
+nonempty destinations; choose a new `STEAMCMD_DIR` rather than overwriting an
+unrelated or older installation.
 
 To download and verify just the current official SteamCMD launcher packages:
 
@@ -28,8 +38,8 @@ python3 server/bootstrap_current_steamcmd.py --directory .runtime/steamcmd
 
 This step has been tested successfully. It prepares SteamCMD, not RustDedicated.
 The workspace's native 64-bit SteamCMD launch succeeds, but its updater still
-fails with an online-update error. Consequently no actual Rust server files
-have yet been installed and no server is currently running here.
+fails with an online-update error. This does not block the default
+DepotDownloader method.
 The updater reports `http error 0` for official manifests even though the same
 HTTPS manifest is reachable with Python. A focused trace showed DNS activity
 without a subsequent TCP/TLS connection; native resolver/proxy compatibility
@@ -55,12 +65,24 @@ establish gameplay readiness. Join the server with a Rust client and validate
 monument placement, puzzles, loot, AI, spawn positions and resource respawning.
 The map is still a draft until those checks pass.
 
+In this workspace the complete 6.1 GB server installation and a second content
+validation passed. Rust loaded the custom map, spawned 484 map entities,
+finished navigation generation and reported `Server startup complete`. A real
+local A2S_INFO query returned `Mixed Biome Rust`, `Custom Map`, capacity 30.
+The launch script supplies a writable Unity config directory and the bundled
+Steam library search path. It records a PID in `logs/server.pid`; confirm that
+the PID still belongs to the expected server before using it to stop anything.
+Steam later reported `NoConnection`, and optional backend image upload was
+refused. Public reachability and online Steam registration are not established.
+
 ## Connections
 
 Expose **28015/UDP** for game traffic and **28017/UDP** for server queries on
 the hosting machine, its firewall and any upstream NAT/router. The default
-script sets RCON's address to loopback and leaves its password empty, disabling
-RCON by default even with a reused configuration. RCON TCP and Rust+
+script binds RCON to loopback and omits its password argument, leaving RCON
+disabled on a fresh identity. Existing identity configuration can enable it
+locally. Do not pass an empty RCON password argument: current Rust bootstrap
+fails while masking that empty value for logging. RCON TCP and Rust+
 are optional and need their own configuration if used. An HTTP-only preview
 does not provide Rust UDP hosting.
 

@@ -37,11 +37,18 @@ query_port=$((10#$query_port))
 }
 server_dir=$(cd -- "$server_dir" && pwd)
 mkdir -p -- "$server_dir/logs"
+# Unity uses XDG_CONFIG_HOME for its persistent data/settings directory.
+# Keep this writable without changing HOME in cloud machines with read-only homes.
+export XDG_CONFIG_HOME=${RUST_CONFIG_DIR:-"$server_dir/config"}
+mkdir -p -- "$XDG_CONFIG_HOME"
+# Steam's loader dlopens steamclient.so by name; use the validated bundled copy.
+export LD_LIBRARY_PATH="$server_dir:$server_dir/RustDedicated_Data/Plugins/x86_64${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
+printf '%s\n' "$$" > "$server_dir/logs/server.pid"
 cd -- "$server_dir"
 exec ./RustDedicated -batchmode -nographics \
   +server.identity "$identity" +server.hostname "$hostname" \
   +server.level 'Procedural Map' +server.levelurl "$map_url" \
   +server.ip 0.0.0.0 +server.port "$game_port" +server.queryport "$query_port" \
-  +rcon.ip 127.0.0.1 +rcon.password '' \
+  +rcon.ip 127.0.0.1 \
   +server.maxplayers "$max_players" \
   -logfile "$server_dir/logs/server.log"

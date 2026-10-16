@@ -25,8 +25,9 @@ a public July 2026 game manifest dump and Rust's manifest hash calculation.
 See verification.json and prefab_catalog.json for results and sources.
 
 REQUIRED BEFORE SERVER USE
-This file has not been opened in RustEdit or RustDedicated. It is a draft,
-not a tested server-ready map. Approximate flat pads do not replace native
+RustDedicated has loaded this file and spawned its map entities. A local
+server query passed. RustEdit and client gameplay testing have not been
+performed, so this remains a draft. Approximate flat pads do not replace native
 monument terrain stamps. In RustEdit apply/review the native terrain stamps,
 check ground pivots, basements, entrances, terrain holes, coast/boat access,
 and the Military Base assembly. Check monument building exclusion zones.

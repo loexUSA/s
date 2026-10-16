@@ -2,7 +2,9 @@
 
 A custom **1,500 × 1,500 metre** Rust island with snowy northwest hills, temperate forest to the west and centre, desert to the east and southeast, and surrounding ocean. This is larger than a literal single map grid so the requested full-size monuments can fit.
 
-The binary map is an experimental editor draft. Its binary structure has been checked; RustEdit loading, terrain integration, monument puzzles, loot, navigation, and gameplay still need validation with the current game.
+The binary map is an experimental editor draft. Its binary structure has been checked; RustEdit loading, terrain integration, monument puzzles, loot, AI behavior, and client gameplay still need validation with the current game.
+
+The current Linux dedicated server is installed and content-validated. It loaded this map, spawned its entities, completed navigation generation, and passed a local UDP server query. Steam online registration and public connections remain unverified. See [current setup results](server/setup_status.json) and [startup evidence](server/startup_verification.json); generated map metadata describes the earlier generation stage.
 
 ## Downloads
 

@@ -1,0 +1,28 @@
+{
+  "verified_at_utc": "2026-10-16T20:39:56.949917+00:00",
+  "steam_app_id": 258550,
+  "server_directory": "/workspace/rust-server/game",
+  "server_startup_complete": true,
+  "steamclient_loaded": true,
+  "custom_map_url": "https://raw.githubusercontent.com/loexUSA/s/refs/heads/main/onegrid_mixed_draft.map",
+  "map_entity_count": 484,
+  "a2s_info": {
+    "host": "127.0.0.1",
+    "port": 28017,
+    "name": "Mixed Biome Rust",
+    "map": "Custom Map",
+    "folder": "rust",
+    "game": "Rust",
+    "app_id_low16": 0,
+    "players": 0,
+    "maximum": 30,
+    "bots": 0
+  },
+  "public_internet_reachability": "not_verified",
+  "steam_master_server_registration": "not_verified",
+  "notes": [
+    "A2S_INFO was obtained from the running server over loopback UDP, including its challenge-response handshake.",
+    "This evidence confirms local startup and custom-map loading; public player connections and gameplay have not been tested.",
+    "Runtime files and map bytes were not patched."
+  ]
+}

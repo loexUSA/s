@@ -1,10 +1,11 @@
 {
-  "checked_at_utc": "2026-10-16T20:23:21.755886+00:00",
+  "checked_at_utc": "2026-10-16T20:41:04.686057+00:00",
   "map": {
     "binary_validation": "passed",
-    "server_loading": "not_run",
+    "server_loading": "passed: current Rust dedicated server loaded the custom map and spawned 484 map entities",
     "editor_validation": "not_run",
-    "gameplay": "not_run"
+    "gameplay": "not_run",
+    "navigation_generation": "passed: runtime default navmesh fully built"
   },
   "steamcmd": {
     "official_bootstrap_downloaded": true,
@@ -20,11 +21,19 @@
   },
   "rust_dedicated_server": {
     "app_id": 258550,
-    "download_complete": false,
-    "installed": false,
-    "running": false,
-    "local_a2s_query": "failed: connection refused",
-    "public_udp_reachability": "not_tested"
+    "download_complete": true,
+    "installed": true,
+    "running": true,
+    "local_a2s_query": "passed: Mixed Biome Rust / Custom Map / max 30 players",
+    "public_udp_reachability": "not_tested",
+    "install_method": "SteamRE DepotDownloader 3.4.0",
+    "validation": "passed; downloaded both depots then revalidated existing content without redownloading",
+    "initial_download_bytes": 1847677920,
+    "uncompressed_content_bytes": 6111762123,
+    "steam_registration": "NoConnection observed; online Steam registration not confirmed",
+    "build_changeset": 167781,
+    "build_date": "2026-10-13",
+    "protocol": "2634.289.1"
   },
   "runtime_directory": "/workspace/rust-server/game",
   "environment_config": {
@@ -33,9 +42,12 @@
   },
   "notes": [
     "HTTPS Steam endpoints were initially blocked by proxy CONNECT 403; bootstrap and manifest endpoints later returned HTTP 200.",
-    "SteamCMD still cannot complete its own update through the current runtime/network configuration.",
     "Incoming UDP 28015 and 28017 plus persistent hosting must be verified on the hosting machine.",
-    "Created SteamCMD log directory with approved scoped filesystem access; manifest downloads still fail. No certificate/signature failure is established by the logs."
+    "Created SteamCMD log directory with approved scoped filesystem access; manifest downloads still fail. No certificate/signature failure is established by the logs.",
+    "Native SteamCMD updater remains incompatible with this runtime, but the default DepotDownloader installation successfully installs and validates official server content.",
+    "Launch script uses writable Unity XDG config and the validated bundled steamclient.so via LD_LIBRARY_PATH.",
+    "The empty RCON-password launch argument was removed because current Rust crashes while masking an empty argument. No game binaries were patched.",
+    "Local startup and query passed; SteamServer NoConnection and optional backend image-upload Domain forbidden were observed."
   ],
   "project_checks": [
     "Independent binary map validation passed in repository .venv",
@@ -44,5 +56,20 @@
     "Shell syntax and Python compilation passed",
     "Installer rejects zero-exit failed Steam update even when an older server executable exists",
     "Start script rejects numerically equivalent game/query ports"
-  ]
+  ],
+  "depotdownloader": {
+    "version": "3.4.0",
+    "platform": "self-contained Linux x64",
+    "release_archive_sha256": "a999dec66b4850fc961bd50366696d23c2d0fad7b18790e6a5647b2f19097a53",
+    "anonymous_login": "passed",
+    "steam_websocket_connection_via_existing_proxy": "passed",
+    "depots": [
+      "258552",
+      "258554"
+    ],
+    "full_content_download": "passed",
+    "repeat_validation": "passed",
+    "home_variable": "unchanged",
+    "isolated_storage": "runtime-local XDG_DATA_HOME"
+  }
 }

@@ -1,0 +1,15 @@
+{
+  "checked_at_utc": "2026-10-16T20:34:53.942237+00:00",
+  "app_id": 258550,
+  "platform": "linux",
+  "architecture": 64,
+  "method": "SteamRE DepotDownloader 3.4.0",
+  "validation": "passed",
+  "completed_depots": [
+    "258552",
+    "258554"
+  ],
+  "install_log": "/workspace/rust-server/game/logs/depot-install.fHl9r8.log",
+  "executable": "/workspace/rust-server/game/RustDedicated",
+  "executable_sha256": "2d5dfd1ce678d78d7bdcb80d457f1284511b3740837e3e059b385c48e537f3a9"
+}
