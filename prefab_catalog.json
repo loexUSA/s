@@ -1,0 +1,179 @@
+{
+  "provenance": {
+    "description": "Asset paths and numeric IDs read from a public dump of GameManifest.Current.pooledStrings; selected path/ID pairs additionally verified against the first four little-endian bytes of the UTF-8 path MD5 digest.",
+    "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt",
+    "source_commit": "2a34d129609ebcae42dc217a56265a71eb609f51",
+    "source_commit_date": "2026-07-11T14:10:53+03:00",
+    "hash_reference": "https://github.com/CarbonCommunity/Carbon.Common/blob/f54d7936382cfdf350a3e02e1ea0eab6d177658b/src/Carbon/Components/Vault.cs#L506",
+    "notes": [
+      "IDs identify bundled game assets; the map does not redistribute their meshes or textures.",
+      "Monument footprints, pivot offsets, terrain stamps, puzzle wiring, navigation, spawns and gameplay require checking in current RustEdit and a Rust dedicated server.",
+      "Resource tree and ore node prefabs are normal harvestable map resources. Fixed initial placements do not establish working population respawn; validate runtime behavior in a Rust dedicated server.",
+      "Snow uses standard rock formation prefabs; their visual biome blending requires in-game validation."
+    ]
+  },
+  "monuments": {
+    "powerplant": {
+      "id": 158704173,
+      "path": "assets/bundled/prefabs/autospawn/monument/large/powerplant_1.prefab",
+      "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L838"
+    },
+    "military": {
+      "id": 3965959566,
+      "path": "assets/bundled/prefabs/autospawn/monument/military_bases/desert_military_base_a.prefab",
+      "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L848"
+    },
+    "lighthouse": {
+      "id": 610633799,
+      "path": "assets/bundled/prefabs/autospawn/monument/lighthouse/lighthouse.prefab",
+      "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L841"
+    },
+    "oilrig": {
+      "id": 2839094107,
+      "path": "assets/bundled/prefabs/autospawn/monument/offshore/oilrig_1.prefab",
+      "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L852"
+    }
+  },
+  "decor": {
+    "forest": [
+      {
+        "id": 3710946948,
+        "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L1077",
+        "kind": "tree"
+      },
+      {
+        "id": 24718419,
+        "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L1083",
+        "kind": "tree"
+      },
+      {
+        "id": 3066746746,
+        "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L802",
+        "kind": "rock"
+      },
+      {
+        "id": 2066843109,
+        "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L803",
+        "kind": "rock"
+      }
+    ],
+    "snow": [
+      {
+        "id": 281312468,
+        "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L929",
+        "kind": "tree"
+      },
+      {
+        "id": 1517797888,
+        "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L932",
+        "kind": "tree"
+      },
+      {
+        "id": 2789465044,
+        "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L804",
+        "kind": "rock"
+      },
+      {
+        "id": 2000799963,
+        "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L805",
+        "kind": "rock"
+      }
+    ],
+    "desert": [
+      {
+        "id": 2165251019,
+        "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L952",
+        "kind": "tree"
+      },
+      {
+        "id": 3891432599,
+        "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_a_entity.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L955",
+        "kind": "tree"
+      },
+      {
+        "id": 3631964820,
+        "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_a.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L760",
+        "kind": "rock"
+      },
+      {
+        "id": 1077083573,
+        "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L761",
+        "kind": "rock"
+      }
+    ]
+  },
+  "resources": {
+    "forest": [
+      {
+        "id": 4124824587,
+        "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L915",
+        "kind": "ore"
+      },
+      {
+        "id": 3774647716,
+        "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L914",
+        "kind": "ore"
+      },
+      {
+        "id": 3058967796,
+        "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L916",
+        "kind": "ore"
+      }
+    ],
+    "snow": [
+      {
+        "id": 723721358,
+        "path": "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L921",
+        "kind": "ore"
+      },
+      {
+        "id": 3345228353,
+        "path": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L920",
+        "kind": "ore"
+      },
+      {
+        "id": 2204178116,
+        "path": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L922",
+        "kind": "ore"
+      }
+    ],
+    "desert": [
+      {
+        "id": 266547145,
+        "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L918",
+        "kind": "ore"
+      },
+      {
+        "id": 4225479497,
+        "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L917",
+        "kind": "ore"
+      },
+      {
+        "id": 1227527004,
+        "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab",
+        "source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt#L919",
+        "kind": "ore"
+      }
+    ]
+  }
+}

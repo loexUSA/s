@@ -1,0 +1,116 @@
+{
+  "file": "/workspace/rust-map/onegrid_mixed_draft.map",
+  "sha256": "c2ede62e93ec5d97b2ca4974d5419d0023805dbce4245caca006235e604ca170",
+  "size_bytes": 3138199,
+  "version": 9,
+  "world_size_meters": 1500,
+  "protobuf_bytes": 43050815,
+  "stream_chunks": {
+    "raw": 0,
+    "compressed": 42
+  },
+  "layer_resolutions": {
+    "terrain": 2049,
+    "height": 2049,
+    "water": 2049,
+    "splat": 1024,
+    "biome": 1024,
+    "alpha": 1024,
+    "topology": 1024
+  },
+  "height_range_meters": [
+    -33.99865714460111,
+    111.3044009033755
+  ],
+  "water_range_meters": [
+    0.0,
+    0.0
+  ],
+  "above_water_fraction": 0.3511915607870711,
+  "biome_weight_sums": [
+    111877241,
+    93557681,
+    3141387,
+    58810571
+  ],
+  "ocean_topology_pixels": 678700,
+  "monument_topology_pixels": 128960,
+  "prefab_count": 446,
+  "paths": [
+    {
+      "name": "Road 0",
+      "node_count": 170,
+      "first_node": [
+        -347.0,
+        13.99422550201416,
+        -320.0
+      ],
+      "last_node": [
+        -85.0,
+        14.44774055480957,
+        67.0
+      ]
+    },
+    {
+      "name": "Road 1",
+      "node_count": 123,
+      "first_node": [
+        -85.0,
+        14.365046501159668,
+        67.0
+      ],
+      "last_node": [
+        260.0,
+        11.680828094482422,
+        -63.0
+      ]
+    }
+  ],
+  "verified": "v9 framing, LZ4 decoding, protobuf structure, layer dimensions and weights, height/water, prefab transforms, paths",
+  "not_verified": "RustEdit/server loading, installed-game asset compatibility, monument terrain stamps, collisions, loot/puzzles, navigation",
+  "catalog_check": "All serialized prefab IDs match public manifest dump and independently recomputed MD5-based Rust UIDs; serialized transforms match sidecar manifest.",
+  "catalog_source": "https://github.com/dactDMA/rust-prefabs/blob/2a34d129609ebcae42dc217a56265a71eb609f51/prefabdumper_all.txt",
+  "monuments": [
+    {
+      "id": 158704173,
+      "path": "assets/bundled/prefabs/autospawn/monument/large/powerplant_1.prefab",
+      "position": [
+        -25.0,
+        18.0,
+        230.0
+      ]
+    },
+    {
+      "id": 3965959566,
+      "path": "assets/bundled/prefabs/autospawn/monument/military_bases/desert_military_base_a.prefab",
+      "position": [
+        260.0,
+        13.0,
+        -220.0
+      ]
+    },
+    {
+      "id": 610633799,
+      "path": "assets/bundled/prefabs/autospawn/monument/lighthouse/lighthouse.prefab",
+      "position": [
+        -375.0,
+        14.0,
+        -335.0
+      ]
+    },
+    {
+      "id": 2839094107,
+      "path": "assets/bundled/prefabs/autospawn/monument/offshore/oilrig_1.prefab",
+      "position": [
+        645.0,
+        0.0,
+        440.0
+      ]
+    }
+  ],
+  "ore_count": 110,
+  "prefab_categories": {
+    "Monument": 4,
+    "Decor": 442
+  }
+}

@@ -1,0 +1,8990 @@
+{
+  "filename": "onegrid_mixed_draft.map",
+  "format_version": 9,
+  "world_size_metres": 1500,
+  "height_resolution": 2049,
+  "texture_resolution": 1024,
+  "prefab_count": 446,
+  "prefabs": [
+    {
+      "id": 158704173,
+      "path": "assets/bundled/prefabs/autospawn/monument/large/powerplant_1.prefab",
+      "category": "Monument",
+      "position": [
+        -25.0,
+        18.0,
+        230.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3965959566,
+      "path": "assets/bundled/prefabs/autospawn/monument/military_bases/desert_military_base_a.prefab",
+      "category": "Monument",
+      "position": [
+        260.0,
+        13.0,
+        -220.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 610633799,
+      "path": "assets/bundled/prefabs/autospawn/monument/lighthouse/lighthouse.prefab",
+      "category": "Monument",
+      "position": [
+        -375.0,
+        14.0,
+        -335.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2839094107,
+      "path": "assets/bundled/prefabs/autospawn/monument/offshore/oilrig_1.prefab",
+      "category": "Monument",
+      "position": [
+        645.0,
+        0.0,
+        440.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -96.13150195725956,
+        12.811817744671258,
+        -260.9838952406226
+      ],
+      "rotation": [
+        0.0,
+        134.22324910549887,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -34.678907607263056,
+        9.668023256242948,
+        5.8289544077451865
+      ],
+      "rotation": [
+        0.0,
+        43.17338804835211,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -224.22467485066966,
+        12.02799488402713,
+        -340.08048750986586
+      ],
+      "rotation": [
+        0.0,
+        141.01368246122615,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -47.95955470843103,
+        14.498926437066899,
+        -181.16566123928072
+      ],
+      "rotation": [
+        0.0,
+        164.85806665411502,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2165251019,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        267.1655680602031,
+        14.09334709726477,
+        89.7008129806585
+      ],
+      "rotation": [
+        0.0,
+        126.49231966368802,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -162.81348358229252,
+        11.582482527214987,
+        -51.971558572534605
+      ],
+      "rotation": [
+        0.0,
+        210.8255495616371,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        263.6688758301681,
+        12.541162498022949,
+        2.5542814110248173
+      ],
+      "rotation": [
+        0.0,
+        4.528522518637326,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -361.4258104448128,
+        12.935503873672841,
+        -155.0897520084538
+      ],
+      "rotation": [
+        0.0,
+        100.64698377974283,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -249.20198250781937,
+        14.110249716388838,
+        15.892834827898696
+      ],
+      "rotation": [
+        0.0,
+        192.25571289211788,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -474.8972962801038,
+        35.131134593081384,
+        118.94382114646419
+      ],
+      "rotation": [
+        0.0,
+        215.05428068975263,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -445.1327746074861,
+        51.25927523570926,
+        144.7238686454325
+      ],
+      "rotation": [
+        0.0,
+        60.332871915772024,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        20.68039384444205,
+        10.537427441441693,
+        -73.813456439422
+      ],
+      "rotation": [
+        0.0,
+        313.9643042759664,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -137.64503734158103,
+        12.259836462571956,
+        -112.65821395784445
+      ],
+      "rotation": [
+        0.0,
+        122.40831687335927,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -341.6690231635279,
+        88.97698841583224,
+        257.16857549118913
+      ],
+      "rotation": [
+        0.0,
+        118.95255631194917,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -411.1567058036898,
+        20.428090109181074,
+        354.6751658532138
+      ],
+      "rotation": [
+        0.0,
+        217.24098469186873,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -163.07735128221765,
+        11.469069557064262,
+        -173.9582511704499
+      ],
+      "rotation": [
+        0.0,
+        350.48010323842936,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -365.8620668289491,
+        19.992736707463628,
+        400.8776298568482
+      ],
+      "rotation": [
+        0.0,
+        191.80349397932994,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -58.97922053807906,
+        12.724437208963462,
+        -233.4549409458662
+      ],
+      "rotation": [
+        0.0,
+        197.1821770080624,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -413.0718552489383,
+        77.70241725963602,
+        266.6408984676848
+      ],
+      "rotation": [
+        0.0,
+        336.87956806010726,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -6.9603976413301325,
+        13.547229317150428,
+        -163.277604743835
+      ],
+      "rotation": [
+        0.0,
+        36.37038366070195,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -31.644801922037345,
+        8.058874046043723,
+        -477.1516800646845
+      ],
+      "rotation": [
+        0.0,
+        121.40585973566489,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -398.5224541243886,
+        18.263573715490367,
+        -86.99913883301201
+      ],
+      "rotation": [
+        0.0,
+        187.7910253793555,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        530.0448537108409,
+        5.175646570909107,
+        94.13751093251778
+      ],
+      "rotation": [
+        0.0,
+        348.9233215415679,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -175.1960761455141,
+        10.621244753880767,
+        16.768991181747424
+      ],
+      "rotation": [
+        0.0,
+        91.12359829086749,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -78.10878222237096,
+        14.018321566386453,
+        -390.02067226654935
+      ],
+      "rotation": [
+        0.0,
+        34.76104784850535,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -266.08732305397524,
+        10.530767823695143,
+        -367.6235143411579
+      ],
+      "rotation": [
+        0.0,
+        77.13545005346899,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -306.12705085080376,
+        13.684029701928226,
+        -29.654351509326716
+      ],
+      "rotation": [
+        0.0,
+        278.2224420123854,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2165251019,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        286.5360978777576,
+        13.8888445616071,
+        305.7941854384595
+      ],
+      "rotation": [
+        0.0,
+        278.5372431646863,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        3.6973939269360017,
+        12.135584450916646,
+        449.1211630377993
+      ],
+      "rotation": [
+        0.0,
+        159.52773210734873,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -167.99407461103505,
+        11.106264229439354,
+        -391.7570859454745
+      ],
+      "rotation": [
+        0.0,
+        180.46002809837273,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        32.46085341620483,
+        12.423512735104831,
+        -435.38266718468606
+      ],
+      "rotation": [
+        0.0,
+        32.04338044453892,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -224.92165868966487,
+        5.290338290917695,
+        -428.96822660987107
+      ],
+      "rotation": [
+        0.0,
+        68.28136142405569,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2165251019,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        530.2313097852743,
+        7.588865664721971,
+        75.14372937097926
+      ],
+      "rotation": [
+        0.0,
+        221.36369534591904,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -409.862672276969,
+        17.174478161017745,
+        -95.36054960317222
+      ],
+      "rotation": [
+        0.0,
+        42.488511541439856,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        20.944307617517325,
+        10.34327860250496,
+        -104.06509845546799
+      ],
+      "rotation": [
+        0.0,
+        138.28050853487233,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -360.9762226937278,
+        20.749186776914488,
+        -19.255035871981704
+      ],
+      "rotation": [
+        0.0,
+        12.672515594890466,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -169.17380479765205,
+        16.56495359135853,
+        -298.96291587826227
+      ],
+      "rotation": [
+        0.0,
+        127.64919627868323,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -325.543108442524,
+        30.4888879251367,
+        75.89819317783372
+      ],
+      "rotation": [
+        0.0,
+        12.45879987642018,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -228.32973598228472,
+        6.29483572223716,
+        -424.6065438538396
+      ],
+      "rotation": [
+        0.0,
+        31.06774631480245,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -309.2002800603214,
+        51.098421453836124,
+        174.01204411885897
+      ],
+      "rotation": [
+        0.0,
+        268.25722021093355,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -45.414245492230236,
+        12.123021120796206,
+        -255.4694149704285
+      ],
+      "rotation": [
+        0.0,
+        180.38947102934847,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -385.5163286506213,
+        31.764728392596762,
+        38.58994946458381
+      ],
+      "rotation": [
+        0.0,
+        359.03235679615267,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -55.54859620772811,
+        12.674240386943021,
+        -106.2994751004428
+      ],
+      "rotation": [
+        0.0,
+        74.80507277917526,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -312.6866801677386,
+        10.652912192096528,
+        -239.26004586112737
+      ],
+      "rotation": [
+        0.0,
+        292.01464221713223,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -170.12032916994082,
+        15.994895004460444,
+        -320.29967118582715
+      ],
+      "rotation": [
+        0.0,
+        72.5818518611333,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -152.32757710422635,
+        16.2625641079685,
+        -287.1281300107746
+      ],
+      "rotation": [
+        0.0,
+        48.482495363826665,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2165251019,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        411.5148281503932,
+        7.804667086194922,
+        60.56650558474075
+      ],
+      "rotation": [
+        0.0,
+        69.81465771739212,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -366.1857912281747,
+        71.01580733626949,
+        372.224304165454
+      ],
+      "rotation": [
+        0.0,
+        264.1172100166647,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        372.6024725081869,
+        10.188837951734504,
+        125.4310857384603
+      ],
+      "rotation": [
+        0.0,
+        108.11670882118732,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -82.57448426276915,
+        11.050667912490571,
+        -446.5806870048921
+      ],
+      "rotation": [
+        0.0,
+        346.8884942687661,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -71.64927399110371,
+        12.53518071599019,
+        -234.508841632719
+      ],
+      "rotation": [
+        0.0,
+        79.42194289142914,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -19.13227242496987,
+        9.48292717006512,
+        -40.66129696701648
+      ],
+      "rotation": [
+        0.0,
+        256.1471921767576,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -375.52905978356023,
+        88.06783728836402,
+        323.8739013031958
+      ],
+      "rotation": [
+        0.0,
+        243.5837889854202,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -366.0107753529244,
+        42.395682559533434,
+        92.684552557997
+      ],
+      "rotation": [
+        0.0,
+        33.74633488092493,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -38.181364440737866,
+        12.237506023326317,
+        -363.64413908834234
+      ],
+      "rotation": [
+        0.0,
+        208.19225148628874,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -343.9430107424279,
+        79.00200087973046,
+        383.9314849715638
+      ],
+      "rotation": [
+        0.0,
+        62.96441053503103,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -367.3179161043338,
+        17.713067347481562,
+        -82.99562840997004
+      ],
+      "rotation": [
+        0.0,
+        153.95214386410268,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -383.88648792357094,
+        15.657376735058513,
+        -115.4131112309949
+      ],
+      "rotation": [
+        0.0,
+        42.578531070864486,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -41.64269621218108,
+        11.357208022357572,
+        -283.71475002525244
+      ],
+      "rotation": [
+        0.0,
+        326.68819592158013,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -374.9430928767527,
+        18.675318120320927,
+        -73.89616964345714
+      ],
+      "rotation": [
+        0.0,
+        88.98871528118605,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -209.89607274700415,
+        8.939584351701024,
+        -426.95986691491055
+      ],
+      "rotation": [
+        0.0,
+        223.91616538018943,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -36.099105470686254,
+        13.464137175046531,
+        -422.5862487505716
+      ],
+      "rotation": [
+        0.0,
+        73.18704380167242,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -221.39630434227706,
+        15.761904363356681,
+        -236.89399458991045
+      ],
+      "rotation": [
+        0.0,
+        151.6063795094634,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -200.1032137761913,
+        10.019976277540689,
+        -393.9584651332854
+      ],
+      "rotation": [
+        0.0,
+        25.282359448201042,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -354.7016101271697,
+        81.09455614452142,
+        230.8203278091794
+      ],
+      "rotation": [
+        0.0,
+        229.02014219082366,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -60.06571074849899,
+        13.668839369780642,
+        -404.4534608222884
+      ],
+      "rotation": [
+        0.0,
+        198.5363951170573,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        36.877771518547206,
+        11.257388645840495,
+        -300.4138410802831
+      ],
+      "rotation": [
+        0.0,
+        281.645798984776,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        8.659183076717,
+        11.241508964256418,
+        -289.4882454244122
+      ],
+      "rotation": [
+        0.0,
+        200.5091902203483,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3631964820,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_a.prefab",
+      "category": "Decor",
+      "position": [
+        280.09114039511223,
+        11.926698688884569,
+        -15.538569907439069
+      ],
+      "rotation": [
+        0.0,
+        271.2956274252211,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -108.86536180257184,
+        15.061908475080571,
+        -315.32103489802336
+      ],
+      "rotation": [
+        0.0,
+        109.24535367321081,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -414.8369057878682,
+        24.971431401066763,
+        -25.538505986753535
+      ],
+      "rotation": [
+        0.0,
+        248.05839955463003,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -203.54387190638175,
+        9.581462606042459,
+        -405.98765573613366
+      ],
+      "rotation": [
+        0.0,
+        38.906978916647226,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        7.520910789525942,
+        11.590684777549129,
+        453.5235898351742
+      ],
+      "rotation": [
+        0.0,
+        255.65216592063277,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -122.37500912213261,
+        6.866699194412727,
+        -463.76765313044757
+      ],
+      "rotation": [
+        0.0,
+        27.074934375804318,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -60.66538914971835,
+        13.394280117700037,
+        -360.6072358554104
+      ],
+      "rotation": [
+        0.0,
+        42.883576435029546,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        30.303061996863562,
+        10.844661675566007,
+        -142.58655577589747
+      ],
+      "rotation": [
+        0.0,
+        301.18254966728506,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -9.891966827460578,
+        11.991926252462179,
+        -125.43803836294495
+      ],
+      "rotation": [
+        0.0,
+        249.29954960066138,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -418.6890369819426,
+        65.08613235441129,
+        173.19594497900903
+      ],
+      "rotation": [
+        0.0,
+        237.32392866340896,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3891432599,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        362.13934747278427,
+        10.899166278199074,
+        18.79897558426626
+      ],
+      "rotation": [
+        0.0,
+        62.238378770670046,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -301.80918243316637,
+        64.28121296673908,
+        209.71296842036463
+      ],
+      "rotation": [
+        0.0,
+        272.11104678600367,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3631964820,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_a.prefab",
+      "category": "Decor",
+      "position": [
+        469.6011602287349,
+        13.182589380947336,
+        114.41563572515906
+      ],
+      "rotation": [
+        0.0,
+        282.788547682328,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -192.20563406046318,
+        7.395697533150989,
+        -441.16441192063604
+      ],
+      "rotation": [
+        0.0,
+        164.64756466870085,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -65.27505360672382,
+        10.474353421592868,
+        -66.47201460110074
+      ],
+      "rotation": [
+        0.0,
+        126.5443942654686,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        73.84724138274555,
+        10.987208629654148,
+        -425.6929546522904
+      ],
+      "rotation": [
+        0.0,
+        298.8402897112171,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -372.61361182849157,
+        86.12712007661696,
+        252.9883444747461
+      ],
+      "rotation": [
+        0.0,
+        112.17832811120974,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -330.71521439456103,
+        87.77120882787047,
+        383.73366934478486
+      ],
+      "rotation": [
+        0.0,
+        294.7368169513015,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -112.45110314099315,
+        12.441375493272098,
+        -200.63920995933955
+      ],
+      "rotation": [
+        0.0,
+        102.71697452509824,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -437.8614854720179,
+        52.11868979224282,
+        138.12755667939314
+      ],
+      "rotation": [
+        0.0,
+        209.6643581252586,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -429.3341389200643,
+        9.969685422932491,
+        -153.04645144344357
+      ],
+      "rotation": [
+        0.0,
+        58.31884501953974,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -311.0551576553854,
+        15.151999881154097,
+        -14.202114869749039
+      ],
+      "rotation": [
+        0.0,
+        135.22198360861483,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -491.349506679437,
+        11.95830211768117,
+        152.71216810921703
+      ],
+      "rotation": [
+        0.0,
+        236.6324994379698,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3891432599,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        356.6168917169939,
+        16.07107358331064,
+        247.7046597480935
+      ],
+      "rotation": [
+        0.0,
+        214.99052120242203,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -173.4883375122343,
+        16.495437690277743,
+        -301.49637214333137
+      ],
+      "rotation": [
+        0.0,
+        78.6198365848495,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -324.4247019623921,
+        79.89791032712986,
+        235.41036748850934
+      ],
+      "rotation": [
+        0.0,
+        289.03100417805047,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -424.84788864521016,
+        5.9784764228479315,
+        -243.39644193455484
+      ],
+      "rotation": [
+        0.0,
+        285.76555993243716,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -48.392004611886364,
+        13.985711584571629,
+        -203.913079263991
+      ],
+      "rotation": [
+        0.0,
+        347.0051075132782,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -315.4428914606981,
+        76.79520914802993,
+        399.1382182201087
+      ],
+      "rotation": [
+        0.0,
+        342.5263045967884,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        48.961548530677305,
+        14.639335338098252,
+        -22.44288453985712
+      ],
+      "rotation": [
+        0.0,
+        210.15526537694902,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -331.16116809859244,
+        63.33116371035018,
+        191.0621989367305
+      ],
+      "rotation": [
+        0.0,
+        26.240467948285282,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -128.67298027409487,
+        10.937741095217524,
+        -42.76118263531458
+      ],
+      "rotation": [
+        0.0,
+        332.0086673930936,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        10.74979983394337,
+        10.499454443386872,
+        -57.613722906514454
+      ],
+      "rotation": [
+        0.0,
+        196.66482593437235,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -283.63578692475085,
+        10.237860785562816,
+        -306.2545594565805
+      ],
+      "rotation": [
+        0.0,
+        160.77467805582197,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -129.27387286522674,
+        12.480674897153861,
+        -212.19324008754103
+      ],
+      "rotation": [
+        0.0,
+        20.44614767398981,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -106.15091685686616,
+        13.261635242190543,
+        -262.7874147394253
+      ],
+      "rotation": [
+        0.0,
+        341.4091606139082,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        494.1578147556752,
+        7.859067474334079,
+        -25.760032855795316
+      ],
+      "rotation": [
+        0.0,
+        357.59361098718597,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -10.724799075033843,
+        14.153901158615128,
+        -182.09741372456784
+      ],
+      "rotation": [
+        0.0,
+        199.51399620937153,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -402.3384617297244,
+        75.3743151864562,
+        208.76894285761887
+      ],
+      "rotation": [
+        0.0,
+        214.10224073374872,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -357.9818693698618,
+        94.71319312952126,
+        325.3472003349916
+      ],
+      "rotation": [
+        0.0,
+        279.75054757303826,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -474.7168101401835,
+        35.844138244352884,
+        131.1109968171562
+      ],
+      "rotation": [
+        0.0,
+        34.68818490168603,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -220.43048143427643,
+        15.54098774782705,
+        -279.53419920895794
+      ],
+      "rotation": [
+        0.0,
+        115.63462356556337,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3891432599,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        409.1184549372841,
+        9.960090394877573,
+        104.83064404438335
+      ],
+      "rotation": [
+        0.0,
+        184.6501183881361,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -351.3763122912646,
+        87.70902855390324,
+        368.4617443546766
+      ],
+      "rotation": [
+        0.0,
+        329.5134514790729,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -3.7329782338651967,
+        11.023292450162844,
+        -475.9141363260025
+      ],
+      "rotation": [
+        0.0,
+        85.55668585942064,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -176.4173052302973,
+        11.409631024365064,
+        -55.1317662970136
+      ],
+      "rotation": [
+        0.0,
+        265.6700298448667,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -0.8727550489381883,
+        12.966130064785812,
+        -426.3637068314053
+      ],
+      "rotation": [
+        0.0,
+        266.21347772777193,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -2.7691040026155633,
+        10.255522630994001,
+        -316.366623346723
+      ],
+      "rotation": [
+        0.0,
+        238.04600065139954,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -175.58447334912222,
+        15.356510891495592,
+        -243.02966321389403
+      ],
+      "rotation": [
+        0.0,
+        185.58432179218863,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -337.3558459088131,
+        10.299294441575043,
+        -212.62880024843145
+      ],
+      "rotation": [
+        0.0,
+        252.73156650245429,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -261.62686318525465,
+        13.986230798468302,
+        -251.18284156259006
+      ],
+      "rotation": [
+        0.0,
+        326.11034862470126,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2165251019,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        511.1537987845029,
+        6.266222258507309,
+        -17.867274117517013
+      ],
+      "rotation": [
+        0.0,
+        204.5862704217311,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        396.8368856295639,
+        16.455106170647234,
+        224.78407084894002
+      ],
+      "rotation": [
+        0.0,
+        29.037224852850038,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        25.33450350744897,
+        12.81428385214247,
+        -193.17690263876074
+      ],
+      "rotation": [
+        0.0,
+        61.446841826883386,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -448.3139814633675,
+        59.162583425416905,
+        197.9467739261039
+      ],
+      "rotation": [
+        0.0,
+        218.3304100124457,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -76.52076742656294,
+        7.682709118151905,
+        452.13191560456835
+      ],
+      "rotation": [
+        0.0,
+        238.38123776649863,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        26.10362297274719,
+        11.346357936333995,
+        453.89739298231905
+      ],
+      "rotation": [
+        0.0,
+        102.83370348542189,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -312.3790685922518,
+        19.41881685028195,
+        23.6919359849569
+      ],
+      "rotation": [
+        0.0,
+        80.78011906448575,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -342.0424949720646,
+        16.297857762267963,
+        -63.139737007022404
+      ],
+      "rotation": [
+        0.0,
+        9.805000573986504,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -397.09194983657994,
+        9.56612560892658,
+        -175.53539756354672
+      ],
+      "rotation": [
+        0.0,
+        81.50360758942186,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -38.25975346345933,
+        11.70373242308372,
+        -99.90469608535312
+      ],
+      "rotation": [
+        0.0,
+        6.234930253164892,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -325.76937060825105,
+        87.8745212735162,
+        253.97707467670273
+      ],
+      "rotation": [
+        0.0,
+        183.9082891401946,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3891432599,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        263.36322040581615,
+        14.106884073386007,
+        93.99440251240026
+      ],
+      "rotation": [
+        0.0,
+        178.15203884644146,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -124.49723068828325,
+        12.538516854322422,
+        -145.74690977490343
+      ],
+      "rotation": [
+        0.0,
+        236.66398315918613,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -43.22562337621406,
+        12.271644917875093,
+        -106.3821089051292
+      ],
+      "rotation": [
+        0.0,
+        218.36122477721347,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -87.82007248894007,
+        12.6252223165717,
+        -267.61691477704755
+      ],
+      "rotation": [
+        0.0,
+        320.58501244726034,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -356.96107138073023,
+        83.5105709471826,
+        238.83323462458577
+      ],
+      "rotation": [
+        0.0,
+        125.24916844932572,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2165251019,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        251.89355849446554,
+        9.27789769334842,
+        246.99921581623528
+      ],
+      "rotation": [
+        0.0,
+        335.20200179383806,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -285.10483866020763,
+        14.756505116255795,
+        3.317214564003393
+      ],
+      "rotation": [
+        0.0,
+        56.19034030147584,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -191.22200102756887,
+        11.635481372030496,
+        -19.234588922253693
+      ],
+      "rotation": [
+        0.0,
+        341.3039947443212,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        38.914898068047364,
+        11.431499405192524,
+        -175.66254646052516
+      ],
+      "rotation": [
+        0.0,
+        189.67958871994804,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        6.294978003845472,
+        10.440461158649217,
+        -374.492344962174
+      ],
+      "rotation": [
+        0.0,
+        349.57298574611116,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -40.97849355845062,
+        11.918398059905233,
+        -348.3228524438196
+      ],
+      "rotation": [
+        0.0,
+        68.92259930848448,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        25.057751338061507,
+        10.66414639788842,
+        456.91570984648365
+      ],
+      "rotation": [
+        0.0,
+        167.38440618824382,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -434.9089410918248,
+        6.754553725591087,
+        327.5330825692305
+      ],
+      "rotation": [
+        0.0,
+        6.810273189131766,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -427.13112170976433,
+        71.91771649556699,
+        236.5132476732706
+      ],
+      "rotation": [
+        0.0,
+        160.78182741031262,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -146.57479267295224,
+        16.34766954163517,
+        -307.8755288815979
+      ],
+      "rotation": [
+        0.0,
+        41.37202531531757,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -458.03224827327176,
+        32.28705885337732,
+        45.10266995774225
+      ],
+      "rotation": [
+        0.0,
+        54.75923788908829,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -27.515582358772747,
+        10.365142199782786,
+        -81.50885432570891
+      ],
+      "rotation": [
+        0.0,
+        294.3946030017735,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -30.13094121219575,
+        12.343041967650322,
+        -379.62033248251856
+      ],
+      "rotation": [
+        0.0,
+        318.39735874050785,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -54.70428059934625,
+        10.652674962200637,
+        -467.84552316769805
+      ],
+      "rotation": [
+        0.0,
+        236.72686059117976,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -409.5799467174496,
+        8.361404374040355,
+        -257.7195502096725
+      ],
+      "rotation": [
+        0.0,
+        321.9806448670287,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -15.17037524952525,
+        9.984806828546795,
+        -22.6672507920282
+      ],
+      "rotation": [
+        0.0,
+        17.93328509070518,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -109.51452856066248,
+        9.859427488550729,
+        -34.31957434928455
+      ],
+      "rotation": [
+        0.0,
+        157.20654304317338,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        92.16514421404361,
+        10.563043005622285,
+        449.84120339439323
+      ],
+      "rotation": [
+        0.0,
+        173.2432096768154,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -364.40834420848824,
+        82.21755023038106,
+        363.65800482196005
+      ],
+      "rotation": [
+        0.0,
+        220.88036979505566,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -371.3010357735335,
+        88.65794407887506,
+        332.0719040194849
+      ],
+      "rotation": [
+        0.0,
+        144.00879304979327,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        18.443645513974616,
+        14.16609707030862,
+        -468.8242416279921
+      ],
+      "rotation": [
+        0.0,
+        115.80788627643389,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -179.9733808370243,
+        16.58904012536922,
+        -279.42061840782196
+      ],
+      "rotation": [
+        0.0,
+        111.63699333110155,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        6.95499232950408,
+        10.520550979212532,
+        -307.145017696325
+      ],
+      "rotation": [
+        0.0,
+        130.7543506087335,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -164.78376288333652,
+        8.733227959574432,
+        -430.9794231926525
+      ],
+      "rotation": [
+        0.0,
+        114.977499350585,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -301.85460519320463,
+        14.61452867412596,
+        -11.017810540414871
+      ],
+      "rotation": [
+        0.0,
+        262.38901902584854,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -405.82676708453425,
+        47.236902449335275,
+        99.20077791331926
+      ],
+      "rotation": [
+        0.0,
+        246.9626019249319,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -73.07249599219483,
+        13.010936642991929,
+        -317.78795499208775
+      ],
+      "rotation": [
+        0.0,
+        103.10361002788132,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -54.95323536383012,
+        8.37190861426981,
+        -3.1059169064918706
+      ],
+      "rotation": [
+        0.0,
+        208.09941974959548,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -165.61437113383977,
+        10.546924201131198,
+        0.8192986768754054
+      ],
+      "rotation": [
+        0.0,
+        185.1217449482504,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2165251019,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        247.49551816971382,
+        9.595795406071835,
+        265.74532134818446
+      ],
+      "rotation": [
+        0.0,
+        331.2097436518171,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -314.0394316664006,
+        41.930197757944995,
+        138.99255394653687
+      ],
+      "rotation": [
+        0.0,
+        315.5887179446374,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3891432599,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        269.06113121300064,
+        10.365980906338603,
+        246.47957108812386
+      ],
+      "rotation": [
+        0.0,
+        214.95099346107983,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -59.92226312058392,
+        12.062694093384525,
+        -93.88596265185652
+      ],
+      "rotation": [
+        0.0,
+        205.61068591010877,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3631964820,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_a.prefab",
+      "category": "Decor",
+      "position": [
+        364.42022448214277,
+        9.141433468192833,
+        93.76061975459436
+      ],
+      "rotation": [
+        0.0,
+        72.39064957578438,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2165251019,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        449.3852893881391,
+        7.601114624683182,
+        41.29499920787862
+      ],
+      "rotation": [
+        0.0,
+        219.35389539953928,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -292.6925767828236,
+        9.876820547084568,
+        -303.8662306692406
+      ],
+      "rotation": [
+        0.0,
+        211.65847782766983,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -156.81121930429617,
+        9.633505243347239,
+        -417.7992168561736
+      ],
+      "rotation": [
+        0.0,
+        207.57587128108932,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        16.408635367014995,
+        9.752869603711355,
+        -349.11163398292007
+      ],
+      "rotation": [
+        0.0,
+        211.73687826946068,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -353.4963278701118,
+        18.432208743789182,
+        -39.933536054791716
+      ],
+      "rotation": [
+        0.0,
+        71.69421121819164,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3891432599,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        372.19916436872165,
+        11.629682497228295,
+        148.27613845784867
+      ],
+      "rotation": [
+        0.0,
+        49.701171822832826,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -4.293090455937204,
+        10.856741476731042,
+        -374.0433257101679
+      ],
+      "rotation": [
+        0.0,
+        70.15694830889227,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        7.890963522503171,
+        13.031538919762433,
+        -247.97020251569626
+      ],
+      "rotation": [
+        0.0,
+        257.92124156956123,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -416.8944478591834,
+        69.49812074451356,
+        192.35133294873754
+      ],
+      "rotation": [
+        0.0,
+        117.57445280849105,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        111.22654955450105,
+        14.951889948744777,
+        19.383737616625808
+      ],
+      "rotation": [
+        0.0,
+        122.43150388993696,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -407.93412544273616,
+        25.25466178857624,
+        -20.532463157100437
+      ],
+      "rotation": [
+        0.0,
+        186.39494841383188,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -404.13204203229554,
+        16.822950798531735,
+        -99.85507831751164
+      ],
+      "rotation": [
+        0.0,
+        167.34584358932267,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -374.99598123800627,
+        89.21017812310829,
+        314.6861321958654
+      ],
+      "rotation": [
+        0.0,
+        332.49854774792,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -247.24054666487655,
+        12.109380848319347,
+        -15.457032072681955
+      ],
+      "rotation": [
+        0.0,
+        246.29249558817745,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -357.3182932217353,
+        8.845389534329117,
+        -216.99919649654692
+      ],
+      "rotation": [
+        0.0,
+        61.19265297724388,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -244.27733244512234,
+        12.706693094031001,
+        -4.79366078220869
+      ],
+      "rotation": [
+        0.0,
+        353.72764889923064,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -424.110397229152,
+        10.04356775016365,
+        -157.10093992247806
+      ],
+      "rotation": [
+        0.0,
+        245.299475406301,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        44.942709624762415,
+        12.712907794657903,
+        -54.016320148337854
+      ],
+      "rotation": [
+        0.0,
+        97.33193885994373,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2165251019,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        382.7594931595587,
+        14.51716000796822,
+        267.3526562545908
+      ],
+      "rotation": [
+        0.0,
+        140.66964464418524,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -441.6548924144533,
+        60.195346064340704,
+        185.60590841962585
+      ],
+      "rotation": [
+        0.0,
+        104.51011530820739,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -18.729116946225304,
+        12.640188103988214,
+        -130.370487273508
+      ],
+      "rotation": [
+        0.0,
+        212.58512953475557,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -112.88194813062034,
+        9.385850425296644,
+        -23.854332575478963
+      ],
+      "rotation": [
+        0.0,
+        300.9473940207538,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -130.64638694921302,
+        14.016457467914424,
+        -253.46296794887633
+      ],
+      "rotation": [
+        0.0,
+        315.31681018808405,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -76.35909165752281,
+        12.163180011954886,
+        -434.3231959931803
+      ],
+      "rotation": [
+        0.0,
+        74.5799861526169,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -210.5132948080897,
+        15.252583202289319,
+        -223.89706960793546
+      ],
+      "rotation": [
+        0.0,
+        147.80658352611906,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        39.486859137531155,
+        10.273477277134713,
+        -328.96126831293554
+      ],
+      "rotation": [
+        0.0,
+        129.0503012864533,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3631964820,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_a.prefab",
+      "category": "Decor",
+      "position": [
+        512.3497865585268,
+        7.646211971869423,
+        -5.844893787626916
+      ],
+      "rotation": [
+        0.0,
+        29.427049069792446,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        39.23091566237213,
+        10.453625835434647,
+        -100.95250295483231
+      ],
+      "rotation": [
+        0.0,
+        125.54123754459778,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -48.99701993082425,
+        8.863796675478762,
+        -39.26200877548678
+      ],
+      "rotation": [
+        0.0,
+        324.8127717987745,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -201.86173282508628,
+        9.726782555948699,
+        -401.09229599620045
+      ],
+      "rotation": [
+        0.0,
+        135.89638383761437,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -3.043939458722548,
+        10.531397598750342,
+        -305.4247599650548
+      ],
+      "rotation": [
+        0.0,
+        178.41589486333783,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -73.12967373443689,
+        12.639160227332939,
+        -428.2752605998433
+      ],
+      "rotation": [
+        0.0,
+        45.58606812912431,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -120.5623430456655,
+        8.00979721793864,
+        15.047055020865628
+      ],
+      "rotation": [
+        0.0,
+        40.674393292875585,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -25.37461164669014,
+        13.427078747520623,
+        -452.6980443887672
+      ],
+      "rotation": [
+        0.0,
+        219.5387038292256,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -56.28986352242822,
+        8.754120617440135,
+        16.59348894467462
+      ],
+      "rotation": [
+        0.0,
+        350.08002448941164,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -172.73800285357265,
+        11.450109749785787,
+        -32.42995177696906
+      ],
+      "rotation": [
+        0.0,
+        334.70798995007937,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -401.56908435578987,
+        21.47044378428184,
+        -54.883137298029396
+      ],
+      "rotation": [
+        0.0,
+        221.88886464578286,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -4.441905936942362,
+        11.553002029701833,
+        -278.61220562148145
+      ],
+      "rotation": [
+        0.0,
+        56.801474873263246,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        19.19875850522328,
+        9.937568640394204,
+        -370.17968325238166
+      ],
+      "rotation": [
+        0.0,
+        237.98989389598492,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -28.95728895356575,
+        14.466624773053525,
+        -173.5699378900136
+      ],
+      "rotation": [
+        0.0,
+        216.49481980868057,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -375.4065491581997,
+        18.508036936647848,
+        -76.94298933013977
+      ],
+      "rotation": [
+        0.0,
+        297.0274078521122,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -147.53594988443518,
+        15.320542465324134,
+        -346.02702986906945
+      ],
+      "rotation": [
+        0.0,
+        29.431466330240145,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -432.8633055760622,
+        11.633257114950938,
+        -119.92875636090355
+      ],
+      "rotation": [
+        0.0,
+        208.0991473907386,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        29.351549936911283,
+        9.706137572114262,
+        -349.6743012135963
+      ],
+      "rotation": [
+        0.0,
+        156.5635519669324,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        17.924255967599265,
+        9.821376563344385,
+        -337.55100145056633
+      ],
+      "rotation": [
+        0.0,
+        247.59464283856397,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -31.50607472970688,
+        12.127443595397867,
+        -371.32531377556137
+      ],
+      "rotation": [
+        0.0,
+        140.53773574099992,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -347.37557095597174,
+        85.23786043504467,
+        245.46853758173063
+      ],
+      "rotation": [
+        0.0,
+        146.6165445041899,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -385.7471502543656,
+        7.6194410342495775,
+        -235.98132769151687
+      ],
+      "rotation": [
+        0.0,
+        318.43129736662934,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        14.265189758138035,
+        10.282767297388641,
+        -78.20757748765817
+      ],
+      "rotation": [
+        0.0,
+        245.85455905384975,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -343.3133852190108,
+        56.65341333412887,
+        160.21048724014656
+      ],
+      "rotation": [
+        0.0,
+        290.06862077478803,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -392.5282427510391,
+        72.66875110208011,
+        191.28870295251784
+      ],
+      "rotation": [
+        0.0,
+        258.68714899435975,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -360.70417651966386,
+        8.870612244115915,
+        -212.9817211477607
+      ],
+      "rotation": [
+        0.0,
+        356.80119279972183,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -169.78517377542784,
+        11.520392550852247,
+        -53.67385013084083
+      ],
+      "rotation": [
+        0.0,
+        208.30568511775448,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -111.62570749647227,
+        12.79729532631183,
+        -93.95493010127825
+      ],
+      "rotation": [
+        0.0,
+        25.98348426127268,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        62.91895698870212,
+        11.199866668908328,
+        -427.7180989544982
+      ],
+      "rotation": [
+        0.0,
+        337.7375463256656,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -235.30878812792776,
+        15.197622197179665,
+        -264.63367811082725
+      ],
+      "rotation": [
+        0.0,
+        100.87225641810974,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -156.50098339674764,
+        11.580142760626373,
+        -99.18950599112236
+      ],
+      "rotation": [
+        0.0,
+        126.60870673097924,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -388.4165656993515,
+        7.903047021333828,
+        -252.3371695352826
+      ],
+      "rotation": [
+        0.0,
+        3.7943086682818095,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        436.5864268913896,
+        10.833186628536428,
+        100.97241802147823
+      ],
+      "rotation": [
+        0.0,
+        62.84177543153716,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -134.81448407828594,
+        15.413181719208868,
+        -281.7716086672095
+      ],
+      "rotation": [
+        0.0,
+        161.61169390370097,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -309.583811651014,
+        58.843652237335455,
+        193.82674413578957
+      ],
+      "rotation": [
+        0.0,
+        251.37749781163353,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -36.40201410515158,
+        13.524805864382207,
+        450.4083222559327
+      ],
+      "rotation": [
+        0.0,
+        329.18002607589955,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -77.01078661480892,
+        9.91253239133727,
+        -52.14080767652172
+      ],
+      "rotation": [
+        0.0,
+        254.84062651737324,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -386.0710320374136,
+        51.934907323195866,
+        364.82983510881024
+      ],
+      "rotation": [
+        0.0,
+        256.7276695532866,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -104.17269500304229,
+        14.673737844528564,
+        -370.38912673601703
+      ],
+      "rotation": [
+        0.0,
+        239.28179159088353,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -371.5595897675207,
+        20.579416291295317,
+        -38.6877802455071
+      ],
+      "rotation": [
+        0.0,
+        57.739156052259595,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -430.6920269571898,
+        31.445417567290832,
+        24.366878491466764
+      ],
+      "rotation": [
+        0.0,
+        47.27003089006087,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2165251019,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        351.71997095665677,
+        14.87245760678684,
+        215.59306988114008
+      ],
+      "rotation": [
+        0.0,
+        171.20964149394564,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -366.8325944275423,
+        43.37018499773343,
+        95.70657861682207
+      ],
+      "rotation": [
+        0.0,
+        236.9373459739601,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        406.7147194852322,
+        10.019786766582637,
+        106.86450207197026
+      ],
+      "rotation": [
+        0.0,
+        93.2149130725329,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -354.47811096112366,
+        17.98504745874259,
+        -52.03945012509786
+      ],
+      "rotation": [
+        0.0,
+        340.3850374140071,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -377.6496616544523,
+        11.988629761822764,
+        -157.55101567245322
+      ],
+      "rotation": [
+        0.0,
+        270.9202140833372,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -61.82311313897452,
+        9.365061361672765,
+        -48.92043520347784
+      ],
+      "rotation": [
+        0.0,
+        91.29444164277332,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        321.87469879010985,
+        10.808012496022,
+        100.83596595073504
+      ],
+      "rotation": [
+        0.0,
+        94.50047927757254,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        61.73980802639187,
+        13.043182703591086,
+        -459.64851274859177
+      ],
+      "rotation": [
+        0.0,
+        23.135806075755866,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -162.99093909569,
+        8.730714601908748,
+        -431.4418839542313
+      ],
+      "rotation": [
+        0.0,
+        121.13569011060996,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        27.87574007807484,
+        9.784224851763138,
+        -370.0965270222827
+      ],
+      "rotation": [
+        0.0,
+        173.56694612820033,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -40.94939256478176,
+        10.676193792110576,
+        -81.14541289375825
+      ],
+      "rotation": [
+        0.0,
+        282.8548023330061,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -230.9945995886447,
+        12.792998711383596,
+        1.870187351453069
+      ],
+      "rotation": [
+        0.0,
+        79.07234766593196,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        14.620488816299257,
+        10.209764162665873,
+        -318.84353445522015
+      ],
+      "rotation": [
+        0.0,
+        142.03109031135392,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        377.8017285701327,
+        10.002222373713611,
+        119.82993786148813
+      ],
+      "rotation": [
+        0.0,
+        235.03588679000035,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -87.78230648735598,
+        11.77055339858853,
+        -76.54602716223451
+      ],
+      "rotation": [
+        0.0,
+        329.5235767550126,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -153.0946610459216,
+        8.43406694788015,
+        -440.61097296238813
+      ],
+      "rotation": [
+        0.0,
+        312.51933662257596,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -73.83941812645787,
+        13.766094801375163,
+        -344.87628664773825
+      ],
+      "rotation": [
+        0.0,
+        131.90536244620637,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -324.35095788247816,
+        54.06322661543144,
+        169.69651075663205
+      ],
+      "rotation": [
+        0.0,
+        314.7402303458307,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        51.001049335213565,
+        12.442291496050693,
+        -479.6562210099977
+      ],
+      "rotation": [
+        0.0,
+        31.194935504723528,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -194.32390493535866,
+        16.087357214491927,
+        -297.8087209261889
+      ],
+      "rotation": [
+        0.0,
+        53.907243972760874,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -344.07108364862387,
+        63.26396197370373,
+        180.87040420732956
+      ],
+      "rotation": [
+        0.0,
+        283.4834682469376,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -169.4325734841761,
+        11.223779476293068,
+        -20.174778432905555
+      ],
+      "rotation": [
+        0.0,
+        353.3274538851347,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -410.25214389397047,
+        42.96289398938271,
+        83.07791950872684
+      ],
+      "rotation": [
+        0.0,
+        74.12867528696516,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -218.12604201858164,
+        16.000659870012118,
+        -262.48845337399763
+      ],
+      "rotation": [
+        0.0,
+        353.3411698789186,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -163.67597777778775,
+        6.757397269510505,
+        439.4719772311537
+      ],
+      "rotation": [
+        0.0,
+        220.42593113175803,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -68.85094513901913,
+        8.898204395668188,
+        -37.10921049023199
+      ],
+      "rotation": [
+        0.0,
+        68.27237129717642,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -356.4798326714009,
+        49.60261412272108,
+        124.44070782887331
+      ],
+      "rotation": [
+        0.0,
+        319.9377273597232,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -145.1204309640408,
+        9.883801461544797,
+        -7.098242503422284
+      ],
+      "rotation": [
+        0.0,
+        275.21649346981155,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -16.198051576648254,
+        10.78811972859297,
+        -354.55019927505145
+      ],
+      "rotation": [
+        0.0,
+        146.32729276521815,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -402.79677107898465,
+        8.549788580360753,
+        -259.37416477683354
+      ],
+      "rotation": [
+        0.0,
+        105.95112012831628,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3891432599,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        256.5672702142673,
+        6.5609064788941724,
+        403.9940232911347
+      ],
+      "rotation": [
+        0.0,
+        335.34826999697583,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -176.62206408269208,
+        12.609747391138862,
+        -367.5090906717577
+      ],
+      "rotation": [
+        0.0,
+        225.53579222456784,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        20.63337454624468,
+        9.75070035569067,
+        -359.58527353389206
+      ],
+      "rotation": [
+        0.0,
+        181.7925970708655,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        31.497407136601964,
+        10.34760671804867,
+        -118.63813967791481
+      ],
+      "rotation": [
+        0.0,
+        91.96126428863407,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        12.87538762278598,
+        13.259564672766874,
+        5.499348317413478
+      ],
+      "rotation": [
+        0.0,
+        57.66145748578047,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -149.6372739568646,
+        11.453205629421932,
+        -159.03419583284534
+      ],
+      "rotation": [
+        0.0,
+        317.07008860159806,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -378.2525137207558,
+        51.2453932275182,
+        117.3009078041838
+      ],
+      "rotation": [
+        0.0,
+        164.0598254350427,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -25.106465230919355,
+        14.350288745200265,
+        -170.32923149937852
+      ],
+      "rotation": [
+        0.0,
+        317.57277021752856,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -236.29851594655003,
+        12.560303817284135,
+        -5.128976748065384
+      ],
+      "rotation": [
+        0.0,
+        281.4309094644466,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -9.892533142750722,
+        11.224296550289601,
+        -285.00372224435927
+      ],
+      "rotation": [
+        0.0,
+        157.05774187338847,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        277.86471336888405,
+        10.416285318745368,
+        163.2829459670395
+      ],
+      "rotation": [
+        0.0,
+        315.06375590922477,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -370.9186026979329,
+        49.721204158113615,
+        115.51415655811945
+      ],
+      "rotation": [
+        0.0,
+        270.9444133958579,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -151.96724320025533,
+        16.201379180277964,
+        -322.2536352387217
+      ],
+      "rotation": [
+        0.0,
+        331.82337688658055,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -146.89827903700092,
+        10.535348520659653,
+        -20.82098059757186
+      ],
+      "rotation": [
+        0.0,
+        26.940932460219468,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -386.8389887109913,
+        7.74959205566774,
+        -246.82806146290233
+      ],
+      "rotation": [
+        0.0,
+        298.4705665906178,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -209.629519189856,
+        13.366029873338972,
+        -332.48225898568705
+      ],
+      "rotation": [
+        0.0,
+        0.8865891425943584,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -382.08538175193564,
+        9.392624526310524,
+        -186.89960572052553
+      ],
+      "rotation": [
+        0.0,
+        197.3059545034362,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -298.4257221464658,
+        27.63606092225662,
+        90.050361297726
+      ],
+      "rotation": [
+        0.0,
+        100.3718899229638,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        36.42637674805337,
+        14.397969547773107,
+        -7.906788740885872
+      ],
+      "rotation": [
+        0.0,
+        88.8611363406776,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -402.655348074077,
+        15.884242512858268,
+        -108.75036308378213
+      ],
+      "rotation": [
+        0.0,
+        285.2626287031392,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -20.65914434818592,
+        10.69226419541405,
+        -303.181759214419
+      ],
+      "rotation": [
+        0.0,
+        125.86358973400328,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -330.5484712731637,
+        36.71009996360543,
+        98.97263586811982
+      ],
+      "rotation": [
+        0.0,
+        84.96537256754668,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -341.49314222964114,
+        82.31167569251038,
+        237.56937420449344
+      ],
+      "rotation": [
+        0.0,
+        70.19366415044541,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        11.606140857918717,
+        13.052453278078271,
+        -175.74845697237726
+      ],
+      "rotation": [
+        0.0,
+        239.2068303165705,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -176.7910160262387,
+        13.62673074627292,
+        -354.3074118090824
+      ],
+      "rotation": [
+        0.0,
+        29.943857694497265,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -341.52701276415127,
+        84.42112747798205,
+        380.9083103551359
+      ],
+      "rotation": [
+        0.0,
+        306.52227806452316,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        34.671611286413736,
+        12.211588395278529,
+        -432.8894951145363
+      ],
+      "rotation": [
+        0.0,
+        198.3949710797066,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -398.17945327773873,
+        15.944672433289423,
+        -109.39800554158984
+      ],
+      "rotation": [
+        0.0,
+        162.8278364007617,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -14.794341828737174,
+        9.75180210604732,
+        -33.62926697285798
+      ],
+      "rotation": [
+        0.0,
+        44.709118575972695,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        34.02146268148056,
+        12.68677889620309,
+        -207.829792078519
+      ],
+      "rotation": [
+        0.0,
+        117.60829276000612,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        345.28098203124273,
+        15.417344515061876,
+        287.0381302572546
+      ],
+      "rotation": [
+        0.0,
+        317.3551198703364,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1517797888,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -435.3346687326244,
+        53.250360665735876,
+        140.07166048010515
+      ],
+      "rotation": [
+        0.0,
+        190.54148293051864,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        14.734786512464325,
+        10.405222721739054,
+        -382.12600365257566
+      ],
+      "rotation": [
+        0.0,
+        25.004032870929155,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -89.16321214132535,
+        11.767881892747265,
+        -430.79193881388426
+      ],
+      "rotation": [
+        0.0,
+        330.9756759362963,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -156.54583783018836,
+        13.973436384704128,
+        -362.2387603925073
+      ],
+      "rotation": [
+        0.0,
+        122.35781497183936,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -339.0841793152378,
+        93.65235256897209,
+        271.9227196942488
+      ],
+      "rotation": [
+        0.0,
+        97.40340536917404,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -300.0594774637146,
+        49.33127033905214,
+        176.07531712097477
+      ],
+      "rotation": [
+        0.0,
+        63.646588268475504,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -362.0803521914869,
+        9.466443345834675,
+        -201.18032791626433
+      ],
+      "rotation": [
+        0.0,
+        296.2025241282855,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -110.45056223691051,
+        12.46415297604639,
+        -204.2681254307617
+      ],
+      "rotation": [
+        0.0,
+        279.6913485689291,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3631964820,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_a.prefab",
+      "category": "Decor",
+      "position": [
+        524.3521123246733,
+        6.4680656960952145,
+        106.3506462415695
+      ],
+      "rotation": [
+        0.0,
+        243.24678817454122,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -156.4679798884664,
+        12.53057085940449,
+        -380.56866851611915
+      ],
+      "rotation": [
+        0.0,
+        235.11938447679074,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        18.256385286874547,
+        13.230327921836412,
+        -195.09036473750837
+      ],
+      "rotation": [
+        0.0,
+        101.64726367256058,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -305.02305630461575,
+        32.68041112194289,
+        109.41035046740637
+      ],
+      "rotation": [
+        0.0,
+        220.08687050193964,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -52.25530506599017,
+        11.648222046379484,
+        -276.1654471439207
+      ],
+      "rotation": [
+        0.0,
+        74.23388355613001,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -63.3148400785002,
+        8.216883360491112,
+        -16.677665909927214
+      ],
+      "rotation": [
+        0.0,
+        183.43208618495603,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -100.43303594537656,
+        12.672315861955754,
+        -201.9494965757549
+      ],
+      "rotation": [
+        0.0,
+        195.20448016428435,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        5.952438053370656,
+        13.4685498562743,
+        -180.18147033101752
+      ],
+      "rotation": [
+        0.0,
+        219.50129675373339,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -127.0875957995566,
+        11.615281856952597,
+        -408.40211578087536
+      ],
+      "rotation": [
+        0.0,
+        109.39106419477487,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 24718419,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab",
+      "category": "Decor",
+      "position": [
+        -286.6336642983965,
+        15.726238724963691,
+        12.198866439481208
+      ],
+      "rotation": [
+        0.0,
+        70.36338823112526,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3631964820,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_a.prefab",
+      "category": "Decor",
+      "position": [
+        419.3114318079183,
+        8.008731981720013,
+        9.110529045200451
+      ],
+      "rotation": [
+        0.0,
+        249.60670916305892,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        33.568728218308934,
+        12.055069002726833,
+        -278.38089769601055
+      ],
+      "rotation": [
+        0.0,
+        132.62714096046113,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -409.3369710270938,
+        7.797494074593835,
+        -212.68434456381806
+      ],
+      "rotation": [
+        0.0,
+        41.338503951365226,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 281312468,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab",
+      "category": "Decor",
+      "position": [
+        -308.10056944350856,
+        83.79249900035992,
+        396.69647354007657
+      ],
+      "rotation": [
+        0.0,
+        138.67260943314923,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        349.81743915921675,
+        9.590348771357725,
+        105.33211193599459
+      ],
+      "rotation": [
+        0.0,
+        294.7732846434451,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3891432599,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        324.5708229159778,
+        10.750979902705543,
+        349.3420835039291
+      ],
+      "rotation": [
+        0.0,
+        105.94009510197328,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        42.59086533896948,
+        12.587289521306404,
+        -227.58846677624177
+      ],
+      "rotation": [
+        0.0,
+        41.1823117887571,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -225.28611984128077,
+        14.911038583161439,
+        -288.47293749023436
+      ],
+      "rotation": [
+        0.0,
+        348.34107395698203,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3891432599,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        438.90360180361404,
+        11.320129291452764,
+        105.65330910482044
+      ],
+      "rotation": [
+        0.0,
+        16.48362117679423,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -332.6667088729056,
+        36.4828940982125,
+        95.92097806905088
+      ],
+      "rotation": [
+        0.0,
+        239.98364768991627,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1077083573,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_arid_rock_formations/formation_medium_arid_b.prefab",
+      "category": "Decor",
+      "position": [
+        306.0868506510983,
+        11.679197562789376,
+        101.18429591352742
+      ],
+      "rotation": [
+        0.0,
+        344.9866038837571,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2165251019,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab",
+      "category": "Decor",
+      "position": [
+        167.01972675406455,
+        12.985856379252299,
+        18.28945468210577
+      ],
+      "rotation": [
+        0.0,
+        175.84895931076272,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3710946948,
+      "path": "assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab",
+      "category": "Decor",
+      "position": [
+        -209.82508183842288,
+        16.22520081422296,
+        -261.7705547780045
+      ],
+      "rotation": [
+        0.0,
+        252.46049464563825,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3066746746,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_a.prefab",
+      "category": "Decor",
+      "position": [
+        -90.20571111913682,
+        12.998310286634926,
+        -198.63706607254232
+      ],
+      "rotation": [
+        0.0,
+        348.28629348627794,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2066843109,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_b.prefab",
+      "category": "Decor",
+      "position": [
+        -122.67888427796566,
+        14.07402265990552,
+        -377.6999899929943
+      ],
+      "rotation": [
+        0.0,
+        268.48037671882435,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2000799963,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_d.prefab",
+      "category": "Decor",
+      "position": [
+        -368.0714969861581,
+        90.81011277352104,
+        325.9165867345788
+      ],
+      "rotation": [
+        0.0,
+        350.0442877171654,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2789465044,
+      "path": "assets/bundled/prefabs/autospawn/decor/v3_rock_formations_small/rock_formation_small_c.prefab",
+      "category": "Decor",
+      "position": [
+        -372.92119126309365,
+        54.2837100869163,
+        129.89535872067324
+      ],
+      "rotation": [
+        0.0,
+        23.954397831813147,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 723721358,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -449.448607816928,
+        46.36120492673074,
+        126.41476493907385
+      ],
+      "rotation": [
+        0.0,
+        119.76584700907878,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -290.49964986534167,
+        10.431167604069563,
+        -348.64420713856543
+      ],
+      "rotation": [
+        0.0,
+        177.03461043801474,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1227527004,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        352.07864979640703,
+        11.41073944393369,
+        21.674844852441424
+      ],
+      "rotation": [
+        0.0,
+        82.95450712037933,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -110.72881169726566,
+        15.120322582007537,
+        -356.62112010604574
+      ],
+      "rotation": [
+        0.0,
+        84.534347600925,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -279.23036980962485,
+        13.122565852475002,
+        -146.4031950928238
+      ],
+      "rotation": [
+        0.0,
+        298.19185184191855,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -152.15786424917405,
+        9.181528945116382,
+        -426.9794155870054
+      ],
+      "rotation": [
+        0.0,
+        130.90702010567233,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 266547145,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        183.1982201292011,
+        12.954468636928084,
+        -2.0270705213928295
+      ],
+      "rotation": [
+        0.0,
+        229.65706213825666,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4225479497,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        409.0429494042535,
+        7.926396723330308,
+        65.05715261945011
+      ],
+      "rotation": [
+        0.0,
+        86.45035011813904,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -236.49472474102294,
+        12.17617536670836,
+        -324.77668667811383
+      ],
+      "rotation": [
+        0.0,
+        161.27713794335966,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 266547145,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        261.35684166022656,
+        13.452452990573871,
+        373.46664587000134
+      ],
+      "rotation": [
+        0.0,
+        126.81123046699672,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -420.66720890498266,
+        17.430680988956865,
+        -90.08248668865428
+      ],
+      "rotation": [
+        0.0,
+        3.5386899003058403,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1227527004,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        242.12507321320481,
+        12.001677002043465,
+        -4.803629887640739
+      ],
+      "rotation": [
+        0.0,
+        130.86046973719675,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -158.04125354977822,
+        14.498420561042513,
+        -354.073999483668
+      ],
+      "rotation": [
+        0.0,
+        95.61919061866993,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4225479497,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        470.2457743534171,
+        13.746388742067523,
+        125.14840482809495
+      ],
+      "rotation": [
+        0.0,
+        19.214364132479986,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -29.067237590389027,
+        11.029888059558552,
+        -291.7448095220276
+      ],
+      "rotation": [
+        0.0,
+        314.9455243787731,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 266547145,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        302.79676127514756,
+        10.369697595727814,
+        180.23572057041542
+      ],
+      "rotation": [
+        0.0,
+        233.5193920588958,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4225479497,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        374.13512281178487,
+        16.261066486022223,
+        253.31456080609667
+      ],
+      "rotation": [
+        0.0,
+        233.04001014317618,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1227527004,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        259.44695741405894,
+        12.972613376761831,
+        321.247791475986
+      ],
+      "rotation": [
+        0.0,
+        328.25685561374513,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -367.47145807333726,
+        12.087811212458536,
+        -162.16450504471243
+      ],
+      "rotation": [
+        0.0,
+        58.49792648976864,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        31.970265497940545,
+        10.433925882181939,
+        -126.80293931731552
+      ],
+      "rotation": [
+        0.0,
+        48.90467288774104,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        15.742605095320414,
+        11.344105512619759,
+        -289.58682238620213
+      ],
+      "rotation": [
+        0.0,
+        9.668622874036537,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 266547145,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        274.7028012303674,
+        13.573293517049489,
+        96.4004673982223
+      ],
+      "rotation": [
+        0.0,
+        345.8124047999925,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4225479497,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        337.634174842437,
+        14.476121596769737,
+        311.4073471679028
+      ],
+      "rotation": [
+        0.0,
+        226.09741597226034,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -365.86220094423504,
+        7.863726442681904,
+        -236.5313400947931
+      ],
+      "rotation": [
+        0.0,
+        109.28348004842596,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -196.18974489277525,
+        14.145248041335932,
+        -332.7053136180584
+      ],
+      "rotation": [
+        0.0,
+        64.1950492883381,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -283.0438145860641,
+        11.071089650028572,
+        -59.900289838393576
+      ],
+      "rotation": [
+        0.0,
+        220.79539580148014,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -266.86575549907946,
+        13.167633934473962,
+        -261.72413596146737
+      ],
+      "rotation": [
+        0.0,
+        152.6687177451654,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -315.53451167026094,
+        34.92087241991987,
+        107.43798698731075
+      ],
+      "rotation": [
+        0.0,
+        321.3110236189395,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4225479497,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        84.71428995458166,
+        11.47287219676989,
+        -439.3317540605851
+      ],
+      "rotation": [
+        0.0,
+        235.06752346926402,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -125.34254002859234,
+        13.222609341791758,
+        -239.21494323526258
+      ],
+      "rotation": [
+        0.0,
+        172.63710085984044,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        39.63920585845892,
+        10.611176686051865,
+        -94.70606206526543
+      ],
+      "rotation": [
+        0.0,
+        278.6096963947045,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4225479497,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        473.41012357933437,
+        14.554807225068478,
+        160.40047245948858
+      ],
+      "rotation": [
+        0.0,
+        182.4885533378348,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -117.36747205229983,
+        10.513361402725806,
+        -41.05903554700831
+      ],
+      "rotation": [
+        0.0,
+        10.256822839033713,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 266547145,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        310.6461541403229,
+        13.863853189587108,
+        333.084672924702
+      ],
+      "rotation": [
+        0.0,
+        263.6357899409289,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -348.31102416128135,
+        39.26351264151732,
+        93.26690202873601
+      ],
+      "rotation": [
+        0.0,
+        124.17746703783581,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -330.80270018605574,
+        24.926591165265016,
+        43.072318366846844
+      ],
+      "rotation": [
+        0.0,
+        233.6070626383071,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -91.93680274655486,
+        13.241050714809544,
+        -286.1393412857374
+      ],
+      "rotation": [
+        0.0,
+        70.77930564647244,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -19.351622740805738,
+        9.622438495316022,
+        -28.084205784160645
+      ],
+      "rotation": [
+        0.0,
+        79.16136089278783,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -384.98071448441067,
+        18.22210006702489,
+        -85.88576411039554
+      ],
+      "rotation": [
+        0.0,
+        5.793519127837818,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -354.5248466818906,
+        21.52968821062934,
+        -2.1696676516430102
+      ],
+      "rotation": [
+        0.0,
+        121.5147429716369,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -183.07951700803005,
+        13.476669271427678,
+        -207.05288326594257
+      ],
+      "rotation": [
+        0.0,
+        199.0114061479797,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2204178116,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -335.90491519915594,
+        91.09680432543222,
+        262.99767713473113
+      ],
+      "rotation": [
+        0.0,
+        26.983856951981128,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 266547145,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        412.9583342675854,
+        16.27633596255216,
+        206.80953165251242
+      ],
+      "rotation": [
+        0.0,
+        155.85371731213473,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -31.48526277284583,
+        10.10897444065398,
+        -74.39179121987371
+      ],
+      "rotation": [
+        0.0,
+        54.09808577278065,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1227527004,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        483.7244758045009,
+        11.388390218196562,
+        76.3484590946556
+      ],
+      "rotation": [
+        0.0,
+        173.61564079418918,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -156.70628335823864,
+        13.628608905525493,
+        -224.54663836252655
+      ],
+      "rotation": [
+        0.0,
+        300.0959308323207,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -267.1758967402924,
+        10.50083342128683,
+        -328.47446631427607
+      ],
+      "rotation": [
+        0.0,
+        290.3948117129284,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -246.97230123441153,
+        13.4468873826892,
+        6.474300600307174
+      ],
+      "rotation": [
+        0.0,
+        7.646707906291077,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -216.4257930116437,
+        9.704557028078362,
+        -413.54553854515945
+      ],
+      "rotation": [
+        0.0,
+        35.92277028169771,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -368.9684140895797,
+        37.10783348097273,
+        71.16423481347374
+      ],
+      "rotation": [
+        0.0,
+        249.43935849529367,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1227527004,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        353.5960347870023,
+        11.969984012888258,
+        -10.649804980338104
+      ],
+      "rotation": [
+        0.0,
+        61.15448385252492,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -38.88729518455898,
+        11.929543899543132,
+        -262.1036740508566
+      ],
+      "rotation": [
+        0.0,
+        243.36471868372902,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -313.0973372056654,
+        12.006532872521452,
+        -212.27630407682352
+      ],
+      "rotation": [
+        0.0,
+        337.61619635128073,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -166.28546718564718,
+        15.76296495101954,
+        -258.1519142520406
+      ],
+      "rotation": [
+        0.0,
+        118.41625704415871,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 266547145,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        436.22646755451353,
+        7.904991866744293,
+        56.9062628301665
+      ],
+      "rotation": [
+        0.0,
+        258.414641698019,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -406.40480192425673,
+        12.915766062556921,
+        -134.4229504706732
+      ],
+      "rotation": [
+        0.0,
+        152.02564199256682,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -277.4382690128117,
+        11.594294491113606,
+        -112.59438035724145
+      ],
+      "rotation": [
+        0.0,
+        198.09440275104987,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -166.4659246596177,
+        11.903164798740029,
+        -382.49914472745996
+      ],
+      "rotation": [
+        0.0,
+        302.1604341374611,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4225479497,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        396.11314452859654,
+        16.424086524069118,
+        232.02515996369914
+      ],
+      "rotation": [
+        0.0,
+        166.1821657512813,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1227527004,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        318.313372070279,
+        12.977545423431431,
+        18.189039295607245
+      ],
+      "rotation": [
+        0.0,
+        1.4522125552067155,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -26.22637456625347,
+        11.171270954599787,
+        -350.58556067542986
+      ],
+      "rotation": [
+        0.0,
+        269.34493859129617,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3345228353,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -418.8393884204424,
+        75.66158993406533,
+        258.08912002423347
+      ],
+      "rotation": [
+        0.0,
+        228.68652705569093,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -322.7512449515748,
+        14.385944981547718,
+        -129.63936740234806
+      ],
+      "rotation": [
+        0.0,
+        126.45803637224061,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -449.0276029775074,
+        31.404235846720365,
+        30.827321723484374
+      ],
+      "rotation": [
+        0.0,
+        16.116109005416476,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4225479497,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        283.12972392650113,
+        12.225979573261933,
+        264.058371909456
+      ],
+      "rotation": [
+        0.0,
+        270.00374024884235,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -332.31297737680495,
+        15.886427081612373,
+        -40.294040027205995
+      ],
+      "rotation": [
+        0.0,
+        89.80041385839672,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        28.82468142931714,
+        9.694568563890934,
+        -351.07160467668683
+      ],
+      "rotation": [
+        0.0,
+        14.632748771917443,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4225479497,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        409.05894873621,
+        7.783600263477675,
+        33.33469186590719
+      ],
+      "rotation": [
+        0.0,
+        349.143526596562,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -150.17701078976881,
+        6.950419969981956,
+        -456.6577868094139
+      ],
+      "rotation": [
+        0.0,
+        157.80505987633154,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 266547145,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        487.165601762768,
+        7.769584066995531,
+        3.5874190236044114
+      ],
+      "rotation": [
+        0.0,
+        356.0763423398831,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4225479497,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        454.08048813481764,
+        7.288962159708651,
+        0.6571088504160798
+      ],
+      "rotation": [
+        0.0,
+        304.11873532882043,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -316.72598511983267,
+        15.788098491903137,
+        -13.20074549674598
+      ],
+      "rotation": [
+        0.0,
+        355.26056227299074,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -11.721900593488726,
+        13.598630746203721,
+        -229.70008745544743
+      ],
+      "rotation": [
+        0.0,
+        150.32887172475867,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3345228353,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        58.296316635851554,
+        12.062783652993264,
+        445.021739485353
+      ],
+      "rotation": [
+        0.0,
+        182.71639928392028,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -280.71479851462516,
+        10.674820893133294,
+        -295.5611060746728
+      ],
+      "rotation": [
+        0.0,
+        216.6962865121694,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 266547145,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        262.3356405885962,
+        11.014058901407836,
+        158.9303862723283
+      ],
+      "rotation": [
+        0.0,
+        156.50299476015851,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -2.76667836471222,
+        12.998453142361159,
+        -471.20944830107595
+      ],
+      "rotation": [
+        0.0,
+        147.07751680598298,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -72.48520609599251,
+        8.393782233079197,
+        -23.9366356971791
+      ],
+      "rotation": [
+        0.0,
+        285.2762883659694,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 723721358,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -359.87957375742053,
+        65.14142221642172,
+        174.83498583098844
+      ],
+      "rotation": [
+        0.0,
+        343.45476723097494,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -448.3176550819507,
+        35.29560662846379,
+        59.14033866594025
+      ],
+      "rotation": [
+        0.0,
+        291.1502346209355,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        7.481166936449654,
+        11.924621953110588,
+        -141.6669066390641
+      ],
+      "rotation": [
+        0.0,
+        135.99119649303438,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -311.5167968704175,
+        28.62855948815148,
+        80.55551183204307
+      ],
+      "rotation": [
+        0.0,
+        206.55780607551623,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -253.70251050380904,
+        9.879031327634452,
+        -68.34016437195032
+      ],
+      "rotation": [
+        0.0,
+        359.34863217147966,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -144.3554419941077,
+        12.078872600047735,
+        -86.60446653292217
+      ],
+      "rotation": [
+        0.0,
+        105.11341670622605,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -86.5763156298924,
+        10.642366562926833,
+        -449.15900892435025
+      ],
+      "rotation": [
+        0.0,
+        265.84713988522583,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -198.35011483838684,
+        11.306984264800587,
+        -371.5433098298118
+      ],
+      "rotation": [
+        0.0,
+        176.94943111305628,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2204178116,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -412.9982919938082,
+        58.58905192219766,
+        142.8188022238853
+      ],
+      "rotation": [
+        0.0,
+        271.7666269754803,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -115.45430717267334,
+        15.16737679042422,
+        -305.341054657053
+      ],
+      "rotation": [
+        0.0,
+        61.01613846929939,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -393.8813096659739,
+        23.91079607628859,
+        -24.472422643639447
+      ],
+      "rotation": [
+        0.0,
+        290.2410514078841,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -411.4547659296079,
+        7.808823887651336,
+        -219.14743506415044
+      ],
+      "rotation": [
+        0.0,
+        16.44565337272834,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 266547145,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        318.4133259883024,
+        12.477053183787678,
+        -11.204769812974405
+      ],
+      "rotation": [
+        0.0,
+        213.24418242646533,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3345228353,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -381.99623093766553,
+        84.31689071999082,
+        248.49058133674646
+      ],
+      "rotation": [
+        0.0,
+        142.68019782456867,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -417.0434573396956,
+        28.74277377343372,
+        5.311029883731635
+      ],
+      "rotation": [
+        0.0,
+        63.36275105369482,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -82.01758980454662,
+        12.36929179004852,
+        -245.42325626485825
+      ],
+      "rotation": [
+        0.0,
+        329.6629702219879,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -67.27264972223679,
+        12.214986161838752,
+        -297.83467013860064
+      ],
+      "rotation": [
+        0.0,
+        349.15374721864254,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 2204178116,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -403.0832621473688,
+        75.35704941099308,
+        209.31871749986055
+      ],
+      "rotation": [
+        0.0,
+        214.1796979931668,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -118.98712753599216,
+        12.363593146630327,
+        -183.71077844942891
+      ],
+      "rotation": [
+        0.0,
+        166.68275886049693,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -51.00739366806488,
+        13.52962580570911,
+        -414.3383638424882
+      ],
+      "rotation": [
+        0.0,
+        253.2008126232799,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -113.3965926034731,
+        12.46202423131874,
+        -214.07432759119035
+      ],
+      "rotation": [
+        0.0,
+        191.56817040318356,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -289.97331085533824,
+        14.535630183761862,
+        -2.2807762454636986
+      ],
+      "rotation": [
+        0.0,
+        310.1204471407813,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -230.04999315964113,
+        13.902728836223707,
+        -191.33080826798835
+      ],
+      "rotation": [
+        0.0,
+        209.69165490713567,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3058967796,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -291.4791721560067,
+        12.469680496359512,
+        -32.138588996108126
+      ],
+      "rotation": [
+        0.0,
+        232.08791477003527,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        26.101653093309096,
+        10.67187572806801,
+        -398.05578132557696
+      ],
+      "rotation": [
+        0.0,
+        158.8346565574221,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -339.21297852035855,
+        15.496381832798575,
+        -97.22917872727817
+      ],
+      "rotation": [
+        0.0,
+        344.0604706057798,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1227527004,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        335.34840273529176,
+        10.46404312313651,
+        150.50597523121633
+      ],
+      "rotation": [
+        0.0,
+        238.54160212468693,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -88.92585017776946,
+        7.673029317601474,
+        10.299916972739425
+      ],
+      "rotation": [
+        0.0,
+        282.4836893302666,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -70.28050762246511,
+        10.499391721118478,
+        -64.55300348982405
+      ],
+      "rotation": [
+        0.0,
+        68.16007082147217,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 1227527004,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab",
+      "category": "Decor",
+      "position": [
+        424.64272640543834,
+        13.340539566467822,
+        138.98367985643335
+      ],
+      "rotation": [
+        0.0,
+        264.7113587705632,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 4124824587,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -169.9352287247916,
+        11.415189398027076,
+        -69.7739678395235
+      ],
+      "rotation": [
+        0.0,
+        113.52828005123682,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": 3774647716,
+      "path": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab",
+      "category": "Decor",
+      "position": [
+        -174.97770103807272,
+        10.547060264669632,
+        -129.84149004017138
+      ],
+      "rotation": [
+        0.0,
+        299.2493649270717,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "monuments": [
+    {
+      "key": "powerplant",
+      "label": "Power Plant",
+      "x": -25.0,
+      "z": 230.0,
+      "y": 18.0,
+      "rx": 205.0,
+      "rz": 155.0,
+      "yaw": 0.0
+    },
+    {
+      "key": "military",
+      "label": "Abandoned Military Base",
+      "x": 260.0,
+      "z": -220.0,
+      "y": 13.0,
+      "rx": 160.0,
+      "rz": 145.0,
+      "yaw": 0.0
+    },
+    {
+      "key": "lighthouse",
+      "label": "Lighthouse",
+      "x": -375.0,
+      "z": -335.0,
+      "y": 14.0,
+      "rx": 48.0,
+      "rz": 48.0,
+      "yaw": 0.0
+    },
+    {
+      "key": "oilrig",
+      "label": "Small Oil Rig",
+      "x": 645.0,
+      "z": 440.0,
+      "y": 0.0,
+      "rx": 0.0,
+      "rz": 0.0,
+      "yaw": 0.0
+    }
+  ],
+  "road_count": 2,
+  "initial_ore_nodes": 110,
+  "layer_bytes": {
+    "terrain": 8396802,
+    "height": 8396802,
+    "water": 8396802,
+    "splat": 8388608,
+    "biome": 4194304,
+    "alpha": 1048576,
+    "topology": 4194304
+  },
+  "sha256": "c2ede62e93ec5d97b2ca4974d5419d0023805dbce4245caca006235e604ca170",
+  "status": "Draft: structurally checked; not loaded in RustEdit or RustDedicated",
+  "limitations": [
+    "1500m world: not a literal single grid",
+    "Monument terrain stamps, entry heights, puzzles, loot, AI and spawns need in-game validation",
+    "No RustEdit extension IO metadata, navmesh or server runtime verification"
+  ]
+}

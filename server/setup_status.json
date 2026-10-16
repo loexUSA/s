@@ -1,0 +1,36 @@
+{
+  "checked_at_utc": "2026-10-16T20:17:47.071401+00:00",
+  "map": {
+    "binary_validation": "passed",
+    "server_loading": "not_run",
+    "editor_validation": "not_run",
+    "gameplay": "not_run"
+  },
+  "steamcmd": {
+    "official_bootstrap_downloaded": true,
+    "current_linux64_packages_downloaded": true,
+    "package_integrity": "All four official HTTPS packages matched their manifest size and SHA256",
+    "native_linux64_launch": "passed",
+    "native_linux32_launch": "unsupported: Exec format error",
+    "update": "blocked: updater exits 254 saying Steamcmd needs to be online"
+  },
+  "rust_dedicated_server": {
+    "app_id": 258550,
+    "download_complete": false,
+    "installed": false,
+    "running": false,
+    "local_a2s_query": "failed: connection refused",
+    "public_udp_reachability": "not_tested"
+  },
+  "runtime_directory": "/workspace/rust-server/game",
+  "environment_config": {
+    "steam_domains_saved_to_draft": true,
+    "publication": "not_confirmed"
+  },
+  "notes": [
+    "HTTPS Steam endpoints were initially blocked by proxy CONNECT 403; bootstrap and manifest endpoints later returned HTTP 200.",
+    "SteamCMD still cannot complete its own update through the current runtime/network configuration.",
+    "User home storage is read-only; SteamCMD attempts logs under /home/agent/Steam. No server is running.",
+    "Incoming UDP 28015 and 28017 plus persistent hosting must be verified on the hosting machine."
+  ]
+}

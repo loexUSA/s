@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.runtime/
+.env
+.env.*
+!.env.example
+server/.env
+server/runtime/
+server/logs/
+server/saves/
+*.pid
+core
+core.*
+
