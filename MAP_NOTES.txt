@@ -1,0 +1,43 @@
+MIXED BIOME RUST MAP — EXPERIMENTAL EDITOR DRAFT
+
+Open onegrid_mixed_draft.map in current RustEdit with your Rust game assets.
+This is a real binary Rust World v9 file, not a renamed image.
+
+World: 1500 x 1500 metres. Snow northwest, temperate forest west/centre,
+desert east/southeast, ocean around the island. Keeping the requested
+full-size monuments means this is larger than a literal single map grid.
+
+Monuments at native scale:
+  Power Plant                     x=-25  y=18 z=230
+  Abandoned Military Base A        x=260  y=13 z=-220
+  Lighthouse                      x=-375 y=14 z=-335
+  Small Oil Rig                   x=645  y=0  z=440
+
+Contains two roads, initial biome-specific trees and rocks, and 110 initial
+stone/metal/sulfur nodes. Broad western clearings are intended for bases.
+No Launch Site, Gas Station, Supermarket, or Harbor.
+
+VALIDATED
+Independent binary parser verifies the v9 header, legacy LZ4 decompression,
+protobuf fields, all seven terrain layers, dimensions and texture weights,
+finite prefab transforms and road nodes. Each referenced prefab ID matches
+a public July 2026 game manifest dump and Rust's manifest hash calculation.
+See verification.json and prefab_catalog.json for results and sources.
+
+REQUIRED BEFORE SERVER USE
+This file has not been opened in RustEdit or RustDedicated. It is a draft,
+not a tested server-ready map. Approximate flat pads do not replace native
+monument terrain stamps. In RustEdit apply/review the native terrain stamps,
+check ground pivots, basements, entrances, terrain holes, coast/boat access,
+and the Military Base assembly. Check monument building exclusion zones.
+Test puzzles, loot, AI navigation, player spawns and resource respawning in
+a current Rust dedicated server. Runtime RustEdit extension IO data is not
+included. Native monument puzzles/progression are not proven by this file.
+The generated image was a concept, not a literal asset-accurate render.
+
+REBUILD
+Keep these files together. Requires Python 3, numpy, scipy and system liblz4.
+  python3 build_map.py
+The generator is deterministic. Maps contain asset references only, not
+copies of proprietary game meshes or textures. The generator never pushes
+or changes Git history. Preserve any edits made to the draft before rebuilding.
