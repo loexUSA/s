@@ -8,9 +8,11 @@ The binary map is an experimental editor draft. Its binary structure has been ch
 
 - [Download the `.map`](https://raw.githubusercontent.com/loexUSA/s/refs/heads/main/onegrid_mixed_draft.map)
 - [Download the draft ZIP](https://raw.githubusercontent.com/loexUSA/s/refs/heads/main/downloads/rust_map_draft.zip)
+- [Download the complete project ZIP](https://raw.githubusercontent.com/loexUSA/s/refs/heads/main/downloads/rust_project.zip)
 - [Browse all repository files](https://github.com/loexUSA/s)
 
 The ZIP contains the map, generator, prefab catalog, map manifest, original notes, and structural verification report. The repository also contains a standalone verifier and both concept images.
+The complete project ZIP adds both previews and all server installation and query tools.
 
 ## Map layout
 

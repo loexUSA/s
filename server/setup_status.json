@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-16T20:17:47.071401+00:00",
+  "checked_at_utc": "2026-10-16T20:23:21.755886+00:00",
   "map": {
     "binary_validation": "passed",
     "server_loading": "not_run",
@@ -12,7 +12,11 @@
     "package_integrity": "All four official HTTPS packages matched their manifest size and SHA256",
     "native_linux64_launch": "passed",
     "native_linux32_launch": "unsupported: Exec format error",
-    "update": "blocked: updater exits 254 saying Steamcmd needs to be online"
+    "update": "blocked: native64 updater exits 254; official manifest requests report http error 0, including explicit proxy and HTTPS endpoint override",
+    "package_manifest_version": "1791918946",
+    "binary_directory": "/workspace/rust-server/current-steamcmd",
+    "diagnosis": "Focused trace shows DNS queries but no TCP/TLS connections. Official manifests work through Python HTTPS, while native SteamCMD fails before establishing HTTPS; native resolver/proxy compatibility remains unresolved.",
+    "tls_verification": "kept_enabled; no certificate or signature failure was established"
   },
   "rust_dedicated_server": {
     "app_id": 258550,
@@ -30,7 +34,15 @@
   "notes": [
     "HTTPS Steam endpoints were initially blocked by proxy CONNECT 403; bootstrap and manifest endpoints later returned HTTP 200.",
     "SteamCMD still cannot complete its own update through the current runtime/network configuration.",
-    "User home storage is read-only; SteamCMD attempts logs under /home/agent/Steam. No server is running.",
-    "Incoming UDP 28015 and 28017 plus persistent hosting must be verified on the hosting machine."
+    "Incoming UDP 28015 and 28017 plus persistent hosting must be verified on the hosting machine.",
+    "Created SteamCMD log directory with approved scoped filesystem access; manifest downloads still fail. No certificate/signature failure is established by the logs."
+  ],
+  "project_checks": [
+    "Independent binary map validation passed in repository .venv",
+    "Isolated deterministic rebuild produced byte-identical .map and manifest",
+    "ZIP CRC and content checks passed",
+    "Shell syntax and Python compilation passed",
+    "Installer rejects zero-exit failed Steam update even when an older server executable exists",
+    "Start script rejects numerically equivalent game/query ports"
   ]
 }

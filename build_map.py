@@ -297,4 +297,3 @@ manifest = dict(filename=target.name, format_version=9, world_size_metres=SIZE,
                              'No RustEdit extension IO metadata, navmesh or server runtime verification'])
 (ROOT / 'map_manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
 print(json.dumps({k: v for k, v in manifest.items() if k not in ('prefabs', 'monuments')}, indent=2))
-

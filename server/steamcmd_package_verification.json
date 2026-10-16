@@ -1,0 +1,35 @@
+{
+  "fetched_at": "2026-10-16T20:18:21.529530+00:00",
+  "manifest_url": "https://steamcdn-a.akamaihd.net/client/steam_cmd_linux",
+  "manifest_sha256": "25cb99346f57f95f643f365d5bac6a9c9440e2b3f62dd3a1d7d9836552e7d7de",
+  "version": "1791918946",
+  "packages": [
+    {
+      "name": "steamcmd_public_all",
+      "file": "steamcmd_public_all.zip.5a294ec531ae00e2fd9f94c280007cd605076692",
+      "size": 60349,
+      "sha256": "dfa7b42940635dd870337eeb9bd1084ff88ddd25c94c3fecf2a5d7262f993d75"
+    },
+    {
+      "name": "steamcmd_bins_linux",
+      "file": "steamcmd_bins_linux.zip.6108ed7a39ec2f1fe9f7db70650e0e6954beb657",
+      "size": 38668508,
+      "sha256": "1a8e2b9d6f107909a98654848233200c6eced2ca97480813b25255c3e8666c1a"
+    },
+    {
+      "name": "steamcmd_siteserverui_linux",
+      "file": "steamcmd_siteserverui_linux.zip.8cbcd8dce87ec68acc0383fbdcf345d08f2a4e71",
+      "size": 14712513,
+      "sha256": "1f29edd6a835a711b58b9438eb3a575ebfcb00813c8de8893a9445b31565e417"
+    },
+    {
+      "name": "steamcmd_linux",
+      "file": "steamcmd_linux.zip.c1316c0b668c80995f5f4fee62517fac2c9512b4",
+      "size": 8307627,
+      "sha256": "4757af42b1bc026c8b2c625170986c8d07389899efe9de333a840fa74417571f"
+    }
+  ],
+  "native_linux64": true,
+  "verification": "Verified HTTPS plus official manifest SHA256 and size for every package",
+  "note": "Manifest signatures not independently checked. SteamCMD updater remains enabled. No installed-state marker was manufactured. This is not RustDedicated."
+}

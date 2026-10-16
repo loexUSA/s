@@ -49,4 +49,3 @@ if __name__ == '__main__':
     except (OSError, ValueError, IndexError, struct.error) as exc:
         print(f'Rust server query failed: {exc}', file=sys.stderr)
         sys.exit(1)
-

@@ -12,7 +12,7 @@ Options are environment variables:
   STEAMCMD_DIR           Local SteamCMD install directory.
   STEAMCMD_EXECUTABLE    Existing SteamCMD executable or wrapper, if available.
 Installs current public Rust Dedicated Server (Steam app 258550), anonymously.
-Requires Linux x86_64, Steam access, 32-bit SteamCMD support and ample disk.
+Requires Linux x86_64, Python 3, Steam access and ample disk.
 EOF
   exit 0
 fi
@@ -29,14 +29,7 @@ elif command -v steamcmd >/dev/null 2>&1; then
 else
   steam_executable="$steam_dir/steamcmd.sh"
   if [[ ! -x $steam_executable ]]; then
-    installer=$(mktemp "$steam_dir/installer.XXXXXX.tar.gz")
-    trap 'rm -f -- "$installer"' EXIT
-    curl --fail --show-error --location --connect-timeout 15 --max-time 180 \
-      --output "$installer" \
-      https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
-    tar -xzf "$installer" -C "$steam_dir"
-    rm -f -- "$installer"
-    trap - EXIT
+    python3 "$repo_dir/server/bootstrap_current_steamcmd.py" --directory "$steam_dir"
   fi
 fi
 [[ -x $steam_executable ]] || { echo "SteamCMD is not executable: $steam_executable" >&2; exit 1; }
@@ -47,8 +40,13 @@ if [[ $available_kib -lt 15728640 ]]; then
 fi
 mkdir -p -- "$server_dir/logs"
 install_log=$(mktemp "$server_dir/logs/install.XXXXXX.log")
-"$steam_executable" +force_install_dir "$server_dir" +login anonymous \
-  +app_update 258550 validate +quit 2>&1 | tee "$install_log"
+steam_command=("$steam_executable" +force_install_dir "$server_dir" +login anonymous
+  +app_update 258550 validate +quit)
+if [[ -x $(dirname -- "$steam_executable")/linux64/steamcmd ]]; then
+  STEAM_PLATFORM=linux64 "${steam_command[@]}" 2>&1 | tee "$install_log"
+else
+  "${steam_command[@]}" 2>&1 | tee "$install_log"
+fi
 if ! grep -Fq "Success! App '258550' fully installed." "$install_log"; then
   echo "SteamCMD did not confirm completed installation/validation. See $install_log" >&2
   exit 1
@@ -58,4 +56,3 @@ fi
 }
 echo "RustDedicated installed and Steam-validated at: $server_dir"
 echo 'The server has not been started. Run bash server/start.sh next.'
-

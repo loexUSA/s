@@ -45,4 +45,3 @@ exec ./RustDedicated -batchmode -nographics \
   +rcon.ip 127.0.0.1 +rcon.password '' \
   +server.maxplayers "$max_players" \
   -logfile "$server_dir/logs/server.log"
-
